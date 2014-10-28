@@ -1,6 +1,0 @@
- <configuration>
-     <input>
-       <net-file value="map.net.xml"/>
-       <additional-files value="map.poly.xml"/>
-     </input>
- </configuration>
