@@ -98,6 +98,7 @@ def run():
                 pass
         traci.trafficlights.setRedYellowGreenState("0", PROGRAM[programPointer])
         step += 1
+    print traci.edge.getIDList()
     traci.close()
     sys.stdout.flush()
 
@@ -106,6 +107,7 @@ def get_options():
     optParser.add_option("--nogui", action="store_true", default=False, help="run the commandline version of sumo")
     options, args = optParser.parse_args()
     return options
+
 
 # this is the main entry point of this script
 if __name__ == "__main__":
@@ -119,11 +121,10 @@ if __name__ == "__main__":
         sumoBinary = checkBinary('sumo-gui')
 
     # first, generate the route file for this simulation
-    print >> sys.stdout, "\n\n\n\nHERE"
     generate_routefile()
 
     # this is the normal way of using traci. sumo is started as a
     # subprocess and then the python script connects and runs
-    # sumoProcess = subprocess.Popen([sumoBinary, "-c", "data/cross.sumocfg", "--tripinfo-output", "tripinfo.xml", "--remote-port", str(PORT)])
-    # run()
-    # sumoProcess.wait()
+    sumoProcess = subprocess.Popen([sumoBinary, "-c", "data/cross.sumocfg", "--tripinfo-output", "tripinfo.xml", "--remote-port", str(PORT)], stdout=sys.stdout, stderr=sys.stderr)
+    run()
+    sumoProcess.wait()

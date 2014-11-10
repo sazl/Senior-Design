@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Mon 10 Nov 2014 09:07:45 PM GST by SUMO gui Version svn
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/sumo-gui.exeConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/sami/Programming/senior/Senior-Design/sumo/docs/examples/sumo/vehicle_stops/net.net.xml"/>
+        <route-files value="/home/sami/Programming/senior/Senior-Design/sumo/docs/examples/sumo/vehicle_stops/input_routes.rou.xml"/>
+    </input>
+
+    <output>
+        <vehroute-output value="/home/sami/Programming/senior/Senior-Design/sumo/docs/examples/sumo/vehicle_stops/vehroutes.xml"/>
+        <save-state.prefix value="/home/sami/Programming/senior/Senior-Design/sumo/docs/examples/sumo/vehicle_stops/state"/>
+    </output>
+
+    <report>
+        <xml-validation value="never"/>
+        <no-duration-log value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+    <emissions>
+        <phemlight-path value="/home/sami/Programming/senior/Senior-Design/sumo/docs/examples/sumo/vehicle_stops/./PHEMlight/"/>
+    </emissions>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/routes_file.xsd">
+</routes>
