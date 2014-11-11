@@ -1,40 +1,18 @@
 #!/usr/bin/env python
-"""
-@file    runner.py
-@author  Lena Kalleske
-@author  Daniel Krajzewicz
-@author  Michael Behrisch
-@author  Jakob Erdmann
-@date    2009-03-26
-@version $Id: runner.py 16379 2014-05-14 09:28:38Z behrisch $
-
-Tutorial for traffic light control via the TraCI interface.
-
-SUMO, Simulation of Urban MObility; see http://sumo-sim.org/
-Copyright (C) 2009-2014 DLR/TS, Germany
-
-This file is part of SUMO.
-SUMO is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 3 of the License, or
-(at your option) any later version.
-"""
-
 import os, sys
 import optparse
 import subprocess
 import random
 
-# we need to import python modules from the $SUMO_HOME/tools directory
 try:
-    sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..', '..', '..', "tools")) # tutorial in tests
-    sys.path.append(os.path.join(os.environ.get("SUMO_HOME", os.path.join(os.path.dirname(__file__), "..", "..", "..")), "tools")) # tutorial in docs
+    sys.path.append(os.path.join(os.path.dirname(__file__), '..', '..', '..', '..', "tools"))
+    sys.path.append(os.path.join(os.environ.get("SUMO_HOME", os.path.join(os.path.dirname(__file__), "..", "..", "..")), "tools"))
     from sumolib import checkBinary
 except ImportError:
     sys.exit("please declare environment variable 'SUMO_HOME' as the root directory of your sumo installation (it should contain folders 'bin', 'tools' and 'docs')")
 
 import traci
-# the port used for communicating with your sumo instance
+
 PORT = 8873
 
 NSGREEN = "GrGr"
@@ -45,9 +23,8 @@ WEYELLOW = "ryry"
 PROGRAM = [WEYELLOW,WEYELLOW,WEYELLOW,NSGREEN,NSGREEN,NSGREEN,NSGREEN,NSGREEN,NSGREEN,NSGREEN,NSGREEN,NSYELLOW,NSYELLOW,WEGREEN]
 
 def generate_routefile():
-    random.seed(42) # make tests reproducible
-    N = 3600 # number of time steps
-    # demand per second from different directions
+    random.seed(42)
+    N = 3600
     pWE = 1./10
     pEW = 1./11
     pNS = 1./30
@@ -77,7 +54,6 @@ def generate_routefile():
         print >> routes, "</routes>"
 
 def run():
-    """execute the TraCI control loop"""
     traci.init(PORT)
     programPointer = len(PROGRAM)-1
     step = 0
@@ -87,14 +63,10 @@ def run():
         numPriorityVehicles = traci.inductionloop.getLastStepVehicleNumber("0")
         if numPriorityVehicles > 0:
             if programPointer == len(PROGRAM)-1:
-                # we are in the WEGREEN phase. start the priority phase sequence
                 programPointer = 0
             elif PROGRAM[programPointer] != WEYELLOW:
-                # horizontal traffic is already stopped. restart priority phase
-                # sequence at green
                 programPointer = 3
             else:
-                # we are in the WEYELLOW phase. continue sequence
                 pass
         traci.trafficlights.setRedYellowGreenState("0", PROGRAM[programPointer])
         step += 1
@@ -104,27 +76,31 @@ def run():
 
 def get_options():
     optParser = optparse.OptionParser()
-    optParser.add_option("--nogui", action="store_true", default=False, help="run the commandline version of sumo")
+    optParser.add_option(
+        "--nogui",
+        action="store_true",
+        default=False,
+        help="run the commandline version of sumo"
+    )
     options, args = optParser.parse_args()
     return options
 
-
-# this is the main entry point of this script
 if __name__ == "__main__":
     options = get_options()
-
-    # this script has been called from the command line. It will start sumo as a
-    # server, then connect and run
     if options.nogui:
         sumoBinary = checkBinary('sumo')
     else:
         sumoBinary = checkBinary('sumo-gui')
 
-    # first, generate the route file for this simulation
     generate_routefile()
-
-    # this is the normal way of using traci. sumo is started as a
-    # subprocess and then the python script connects and runs
-    sumoProcess = subprocess.Popen([sumoBinary, "-c", "data/cross.sumocfg", "--tripinfo-output", "tripinfo.xml", "--remote-port", str(PORT)], stdout=sys.stdout, stderr=sys.stderr)
+    sumoProcess = subprocess.Popen(
+        [
+            sumoBinary, "-c", "data/cross.sumocfg",
+            "--tripinfo-output", "tripinfo.xml",
+            "--remote-port", str(PORT)
+        ],
+        stdout=sys.stdout,
+        stderr=sys.stderr
+    )
     run()
     sumoProcess.wait()
