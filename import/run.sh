@@ -1,6 +1,7 @@
 #!/bin/sh
 
 rm -f map.osm.xml map.net.xml map.poly.xml
+cp ../data/InternationalCity.osm map.osm.xml
 
 echo "\nFiltering nodes\n"
 osmosis --read-xml file="map.osm" \
@@ -22,3 +23,6 @@ polyconvert --net-file map.net.xml \
     --osm-files map.osm.xml \
     --type-file typemap.xml \
     -o map.poly.xml
+
+cp map.net.xml ../tollgate/data/map.net.xml
+cp map.poly.xml ../tollgate/data/map.poly.xml

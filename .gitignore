@@ -26,5 +26,10 @@
 
 # Executables
 *.exe
-*.out
 *.app
+
+# Python
+*.pyc
+
+sumo/docs/
+sumo/tools/
