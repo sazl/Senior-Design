@@ -1,5 +1,5 @@
 import os, sys
 import shutil
-import vehicleControl, agentManager
+import vehicleControl
 
-vehicleControl.init(agentManager.AgentManager(), True)
+vehicleControl.init()

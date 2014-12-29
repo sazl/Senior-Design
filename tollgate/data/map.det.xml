@@ -1,5 +1,3 @@
 
-        <e1Detector
-          id="0" lane=":1015085030_4_0"
-          pos="5" freq="30" file="map.out"/>'
+        <e1Detector freq="120" file="map.out"/>'
         
