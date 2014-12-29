@@ -1,0 +1,14 @@
+Loading net-file from 'data/map.net.xml'...  done (29ms).
+Loading additional-files from 'data/map.poly.xml'...  done (1ms).
+Loading done.
+***Starting server on port 8873 ***
+Simulation started with time: 0.00
+Performance: 
+ Duration: 18652 ms
+ Real time factor: 443.652
+ UPS: 351.812138
+Vehicles: 
+ Emitted: 50
+ Running: 0
+ Waiting: 0
+
