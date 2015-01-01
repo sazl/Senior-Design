@@ -1,40 +1,51 @@
-# -*- coding: utf-8 -*-
 import os, sys
 
-INFINITY = 1e400
+PORT                = 8873
+MAP_PATH            = os.path.realpath('data/')
+SRC_PATH            = os.path.realpath('tollgate/')
+IMPORT_PATH         = os.path.realpath('import/')
 
-PREFIX = "map"
-DOUBLE_ROWS = 8
-ROW_DIST = 35
-STOP_POS = ROW_DIST-12
-SLOTS_PER_ROW = 10
-SLOT_WIDTH = 5
-SLOT_LENGTH = 9
-SLOT_FOOT_LENGTH = 5
-CAR_CAPACITY = 3
-CYBER_CAPACITY = 20
-BUS_CAPACITY = 30
-TOTAL_CAPACITY = 60
-CYBER_SPEED = 5
-CYBER_LENGTH = 9
-WAIT_PER_PERSON = 5
-OCCUPATION_PROBABILITY = 0.5
-BREAK_DELAY = 1200
+DATA_PATH           = os.path.join(SRC_PATH, 'data')
+SIMULATION_CONFIG   = os.path.join(DATA_PATH, 'map.sumocfg')
+MAP_OSM_FILE        = os.path.join(DATA_PATH, 'map.osm')
+MAP_OSM_XML_FILE    = os.path.join(DATA_PATH, 'map.osm.xml')
+MAP_FILE            = os.path.join(DATA_PATH, 'map.net.xml')
+POLY_FILE           = os.path.join(DATA_PATH, 'map.poly.xml')
 
-STEP_LIMIT = 10000
-LANE_LENGTH_LIMIT = 50
-INDUCTION_LOOP_FREQ = 120
-NTOLLGATES = 20
-MIN_TOLLGATE_OFFSET = 10
+OUTPUT_PATH         = os.path.join(SRC_PATH, 'output')
+TRIP_INFO_OUTPUT    = os.path.join(OUTPUT_PATH, 'tripinfo.xml')
+LOG_OUTPUT          = os.path.join(OUTPUT_PATH, 'output.log')
 
-PORT = 8873
-SUMO_HOME = os.path.realpath(os.environ.get("SUMO_HOME", os.path.join(os.path.dirname(__file__), "..", "..", "..", "..")))
+
+
+SUMO_HOME           = os.path.realpath(
+    os.environ.get("SUMO_HOME",
+                   os.path.join(os.path.dirname(__file__),
+                                "..", "..", "..", "..")))
 sys.path.append(os.path.join(SUMO_HOME, "tools"))
+
 try:
     from sumolib import checkBinary
 except ImportError:
     def checkBinary(name):
         return name
-NETCONVERT = checkBinary("netconvert")
-SUMO = checkBinary("sumo")
-SUMOGUI = checkBinary("sumo-gui")
+
+NETCONVERT  = checkBinary("netconvert")
+POLYCONVERT = checkBinary("polyconvert")
+SUMO        = checkBinary("sumo")
+SUMOGUI     = checkBinary("sumo-gui")
+OSMOSIS     = "osmosis"
+
+VERBOSE             = False
+STEP_LIMIT          = 10000
+STEP_LENGTH         = 0.01
+
+TRIP_START_TIME     = 0
+TRIP_END_TIME       = 10000
+
+TOLLGATE_MIN_LANE_LENGTH      = 50
+TOLLGATE_MIN_PRICE            = 0
+TOLLGATE_MAX_PRICE            = 100
+TOLLGATE_MAX_COUNT            = 20
+TOLLGATE_MIN_OFFSET           = 10
+TOLLGATE_COLLECTION_FREQUENCY = 120

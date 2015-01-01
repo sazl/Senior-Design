@@ -1,7 +1,7 @@
 #!/bin/sh
 
 rm -f map.osm.xml map.net.xml map.poly.xml
-cp ../data/Simple.osm map.osm.xml
+cp ../data/InternationalCity.osm map.osm.xml
 
 echo "\nFiltering nodes\n"
 osmosis --read-xml file="map.osm" \

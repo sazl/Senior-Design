@@ -1,4 +1,6 @@
 <additional>
-<inductionLoop id="0" lane="96823257_0" pos="92" freq="120" file="map.out"/>
-<inductionLoop id="20" lane="-96823257_0" pos="119" freq="120" file="map.out"/>
+<inductionLoop id="0" lane="24287283#1-AddedOnRampEdge_0" pos="23" freq="120" file="map.out"/>
+<inductionLoop id="1" lane="24287283#1-AddedOnRampEdge_1" pos="23" freq="120" file="map.out"/>
+<inductionLoop id="2" lane="222773400_0" pos="47" freq="120" file="map.out"/>
+<inductionLoop id="3" lane="-228710178#1_0" pos="80" freq="120" file="map.out"/>
 </additional>
