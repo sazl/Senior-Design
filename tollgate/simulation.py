@@ -7,8 +7,9 @@ import sys
 import traci
 import traci.constants as tc
 
+from process   import *
 from constants import *
-from options import *
+from options   import *
 
 class State:
     edges     = {}
@@ -17,10 +18,9 @@ class State:
 state = State()
 
 def generate_detectors():
-    with open("data/map.det.xml", "w") as tollgates:
-        print >> tollgates, """
-        <e1Detector freq="{}" file="map.out"/>'
-        """.format(settings.tollgate_collection_frequency)
+    with open(DETECTOR_FILE, "w") as tollgates:
+        print >> tollgates, '<e1Detector freq="{}" file="map.out"/>'.format(
+            settings.tollgate_collection_frequency)
 
 def get_edge_lanes(lanes=None):
     lanes_by_edge = {}
@@ -39,12 +39,14 @@ def get_edge_lanes(lanes=None):
 def generate_tollgates():
     traci.init(PORT)
     lanes = traci.lane.getIDList()
-    choice = random.sample(lanes, settings.tollgate_max_count)
-    choice = filter(lambda x: traci.lane.getLength(x) > settings.tollgate_min_lane_length, choice)    
+    choice = filter(lambda x: traci.lane.getLength(x) > settings.tollgate_min_lane_length, lanes)
+    if len(choice) > settings.tollgate_max_count:
+        choice = random.sample(choice, settings.tollgate_max_count)
+    
     state.edges = get_edge_lanes(choice)
     fmt = '<inductionLoop id="{}" lane="{}" pos="{}" freq="{}" file="map.out"/>'
 
-    with open("data/map.poly.xml", "w") as tollgates:
+    with open(POLY_FILE, "w+") as tollgates:
         print >> tollgates, '<additional>'
         ident = 0
         for e, ls in state.edges.iteritems():
@@ -96,7 +98,12 @@ def run_simulation(sumoProcessCmd):
         traci.close()
         sumoProcessCmd.wait()
 
-def init():
+def preamble():
+    if settings.import_map:
+        import_map(settings.import_map)
+
+def initialize():
+    preamble()
     generate_detectors()
     sumoProcessCmd = run_sumo(SUMO)
     generate_tollgates()

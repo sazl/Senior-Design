@@ -1,1 +1,13 @@
-Loading net-file from 'tollgate/data/map.net.xml'... 
+Loading net-file from 'tollgate/data/map.net.xml'...  done (31ms).
+Loading additional-files from 'tollgate/data/map.poly.xml'...  done (0ms).
+Loading done.
+***Starting server on port 8873 ***
+Performance: 
+ Duration: 18444 ms
+ Real time factor: 0
+ UPS: 0.000000
+Vehicles: 
+ Emitted: 0 (Loaded: 50)
+ Running: 0
+ Waiting: 0
+

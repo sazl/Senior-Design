@@ -1,6 +1,27 @@
 <additional>
-<inductionLoop id="0" lane="24287283#1-AddedOnRampEdge_0" pos="23" freq="120" file="map.out"/>
-<inductionLoop id="1" lane="24287283#1-AddedOnRampEdge_1" pos="23" freq="120" file="map.out"/>
-<inductionLoop id="2" lane="222773400_0" pos="47" freq="120" file="map.out"/>
-<inductionLoop id="3" lane="-228710178#1_0" pos="80" freq="120" file="map.out"/>
+<inductionLoop id="0" lane="-96823251_0" pos="55" freq="120" file="map.out"/>
+<inductionLoop id="1" lane="-96823256_0" pos="215" freq="120" file="map.out"/>
+<inductionLoop id="2" lane="96823243_0" pos="132" freq="120" file="map.out"/>
+<inductionLoop id="3" lane="96823244#0_0" pos="7" freq="120" file="map.out"/>
+<inductionLoop id="4" lane=":2163709825_4_0" pos="8" freq="120" file="map.out"/>
+<inductionLoop id="5" lane="96823244#5_0" pos="26" freq="120" file="map.out"/>
+<inductionLoop id="6" lane="96823244#4_0" pos="8" freq="120" file="map.out"/>
+<inductionLoop id="7" lane="175565015#1_0" pos="17" freq="120" file="map.out"/>
+<inductionLoop id="8" lane="175565015#0_0" pos="90" freq="120" file="map.out"/>
+<inductionLoop id="9" lane="-24511548#3_0" pos="49" freq="120" file="map.out"/>
+<inductionLoop id="10" lane="96823252#1_0" pos="260" freq="120" file="map.out"/>
+<inductionLoop id="11" lane="206363058_0" pos="8" freq="120" file="map.out"/>
+<inductionLoop id="12" lane="96823254#3_0" pos="203" freq="120" file="map.out"/>
+<inductionLoop id="13" lane="206363057_0" pos="25" freq="120" file="map.out"/>
+<inductionLoop id="14" lane="-175565015#2_0" pos="244" freq="120" file="map.out"/>
+<inductionLoop id="15" lane="-97817445#3_0" pos="35" freq="120" file="map.out"/>
+<inductionLoop id="16" lane="-175565015#0_0" pos="51" freq="120" file="map.out"/>
+<inductionLoop id="17" lane="-24511548#0_0" pos="148" freq="120" file="map.out"/>
+<inductionLoop id="18" lane="-96823244#5_0" pos="72" freq="120" file="map.out"/>
+<inductionLoop id="19" lane="-96823254#1_0" pos="21" freq="120" file="map.out"/>
+<inductionLoop id="20" lane="161671995#2_0" pos="37" freq="120" file="map.out"/>
+<inductionLoop id="21" lane="-96823252#1_0" pos="52" freq="120" file="map.out"/>
+<inductionLoop id="22" lane="24511548#1_0" pos="5" freq="120" file="map.out"/>
+<inductionLoop id="23" lane="97817445#2_0" pos="26" freq="120" file="map.out"/>
+<inductionLoop id="24" lane="-96823243_0" pos="108" freq="120" file="map.out"/>
 </additional>

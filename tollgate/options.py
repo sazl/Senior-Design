@@ -1,6 +1,9 @@
 import os
-from constants import *
+import sys
 from optparse import OptionParser
+
+from util      import *
+from constants import *
 
 settings = None
 
@@ -10,6 +13,9 @@ def parse_options():
     
     optParser.add_option("-v", "--verbose", action="store_true", dest="verbose",
                          default=False, help="display detailed execution info")
+    optParser.add_option("-i", "--import-map", action="store",
+                         dest="import_map", default=None,
+                         help="Process and import map file")
     optParser.add_option("-g", "--gui", action="store_true", dest="gui",
                          default=False, help="run with GUI")
     optParser.add_option("-p", "--port", action="store", dest="port", type=int,
@@ -53,14 +59,18 @@ def parse_options():
                          dest="tollgate_collection_frequency", type=int,
                          default=TOLLGATE_COLLECTION_FREQUENCY,
                          help="Frequency with which tollgate collects stats")
-
-    
     (options, args) = optParser.parse_args()
+    validate_options(options)
     return options
 
+def validate_options(options):
+    if options.tollgate_min_lane_length <= options.tollgate_min_offset:
+        error_print('Lane length must be greater than tollgate offset')
+        sys.exit(1)
+
 if settings is None:
+    devnull = open(os.devnull, 'w')
     settings = parse_options()
     settings.step = 0
-    devnull = open(os.devnull, 'w')
-    settings.stdout = devnull if settings.verbose else sys.stdout
-    settings.stderr = devnull if settings.verbose else sys.stderr
+    settings.stdout = sys.stdout if settings.verbose else devnull
+    settings.stderr = sys.stderr if settings.verbose else devnull

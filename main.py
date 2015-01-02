@@ -1,4 +1,4 @@
 import tollgate
 
 if __name__ == '__main__':
-    tollgate.simulation.init()
+    tollgate.simulation.initialize()

@@ -4,12 +4,14 @@ PORT                = 8873
 MAP_PATH            = os.path.realpath('data/')
 SRC_PATH            = os.path.realpath('tollgate/')
 IMPORT_PATH         = os.path.realpath('import/')
+MAP_OSM_FILE        = os.path.join(IMPORT_PATH, 'map.osm')
+MAP_OSM_XML_FILE    = os.path.join(IMPORT_PATH, 'map.osm.xml')
+TYPEMAP_FILE        = os.path.join(IMPORT_PATH, 'typemap.xml')
 
 DATA_PATH           = os.path.join(SRC_PATH, 'data')
 SIMULATION_CONFIG   = os.path.join(DATA_PATH, 'map.sumocfg')
-MAP_OSM_FILE        = os.path.join(DATA_PATH, 'map.osm')
-MAP_OSM_XML_FILE    = os.path.join(DATA_PATH, 'map.osm.xml')
 MAP_FILE            = os.path.join(DATA_PATH, 'map.net.xml')
+DETECTOR_FILE       = os.path.join(DATA_PATH, 'map.det.xml')
 POLY_FILE           = os.path.join(DATA_PATH, 'map.poly.xml')
 
 OUTPUT_PATH         = os.path.join(SRC_PATH, 'output')

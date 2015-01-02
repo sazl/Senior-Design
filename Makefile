@@ -1,8 +1,5 @@
 
-all: convert random-trips run
-
-convert: import/map.sumocfg import/typemap.xml import/run.sh
-	cd import && ./run.sh
+all: run
 
 random-trips: tollgate/data/map.net.xml
 	cd tollgate/data/ && \
