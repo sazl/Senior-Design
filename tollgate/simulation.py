@@ -67,8 +67,8 @@ def run_sumo(sumoExe=SUMO):
             "-l", "output.log",
             "--remote-port", str(settings.port)
         ],
-        stdout=sys.stdout,
-        stderr=sys.stderr
+        stdout=settings.stdout,
+        stderr=settings.stderr
     )
 
 def calculate_statistics():

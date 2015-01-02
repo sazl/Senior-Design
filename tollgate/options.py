@@ -1,3 +1,4 @@
+import os
 from constants import *
 from optparse import OptionParser
 
@@ -60,3 +61,6 @@ def parse_options():
 if settings is None:
     settings = parse_options()
     settings.step = 0
+    devnull = open(os.devnull, 'w')
+    settings.stdout = devnull if settings.verbose else sys.stdout
+    settings.stderr = devnull if settings.verbose else sys.stderr
