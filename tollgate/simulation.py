@@ -40,12 +40,10 @@ def generate_tollgates():
     traci.init(PORT)
     lanes = traci.lane.getIDList()
     choice = filter(lambda x: traci.lane.getLength(x) > settings.tollgate_min_lane_length, lanes)
-    if len(choice) > settings.tollgate_max_count:
-        choice = random.sample(choice, settings.tollgate_max_count)
-    
     state.edges = get_edge_lanes(choice)
+    if len(state.edges) > settings.tollgate_max_count:
+        state.edges = dict(random.sample(list(state.edges.iteritems()), settings.tollgate_max_count))
     fmt = '<inductionLoop id="{}" lane="{}" pos="{}" freq="{}" file="map.out"/>'
-
     with open(POLY_FILE, "w+") as tollgates:
         print >> tollgates, '<additional>'
         ident = 0
@@ -64,9 +62,9 @@ def generate_tollgates():
 def run_sumo(sumoExe=SUMO):
     return subprocess.Popen(
         [
-            sumoExe, "-c", "tollgate/data/map.sumocfg",
-            "--tripinfo-output", "tripinfo.xml",
-            "-l", "output.log",
+            sumoExe, "-c", SIMULATION_CONFIG,
+            "--tripinfo-output", TRIP_INFO_OUTPUT,
+            "-l", LOG_OUTPUT,
             "--remote-port", str(settings.port)
         ],
         stdout=settings.stdout,
@@ -99,6 +97,7 @@ def run_simulation(sumoProcessCmd):
         sumoProcessCmd.wait()
 
 def preamble():
+    random.seed()
     if settings.import_map:
         import_map(settings.import_map)
 

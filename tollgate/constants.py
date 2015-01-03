@@ -18,8 +18,6 @@ OUTPUT_PATH         = os.path.join(SRC_PATH, 'output')
 TRIP_INFO_OUTPUT    = os.path.join(OUTPUT_PATH, 'tripinfo.xml')
 LOG_OUTPUT          = os.path.join(OUTPUT_PATH, 'output.log')
 
-
-
 SUMO_HOME           = os.path.realpath(
     os.environ.get("SUMO_HOME",
                    os.path.join(os.path.dirname(__file__),

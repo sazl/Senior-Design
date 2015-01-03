@@ -33,3 +33,9 @@
 
 sumo/docs/
 sumo/tools/
+
+tollgate/output/
+import/map.net.xml
+import/map.osm.xml
+import/map.poly.xml
+tollgate/data/map.out
