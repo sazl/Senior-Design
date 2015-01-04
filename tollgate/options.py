@@ -13,6 +13,8 @@ def parse_options():
     
     optParser.add_option("-v", "--verbose", action="store_true", dest="verbose",
                          default=False, help="display detailed execution info")
+    optParser.add_option("", "--output", action="store", dest="output",
+                         default=None, help="save output to a file")
     optParser.add_option("-i", "--import-map", action="store",
                          dest="import_map", default=None,
                          help="Process and import map file")
@@ -70,6 +72,47 @@ def parse_options():
                          dest="tollgate_collection_frequency", type=int,
                          default=TOLLGATE_COLLECTION_FREQUENCY,
                          help="Frequency with which tollgate collects stats")
+
+    optParser.add_option("", "--individual_size", action="store",
+                         dest="individual_size", type=int,
+                         default=INDIVIDUAL_SIZE,
+                         help="Genetic algorithm individual size")
+    optParser.add_option("", "--population-size", action="store",
+                         dest="population_size", type=int,
+                         default=POPULATION_SIZE,
+                         help="Genetic algorithm population size")
+    optParser.add_option("", "--generation-size", action="store",
+                         dest="generation_size", type=int,
+                         default=GENERATION_SIZE,
+                         help="Genetic algorithm generation size")
+    
+    optParser.add_option("", "--crossover-probability", action="store",
+                         dest="crossover_probability", type=float,
+                         default=CROSSOVER_PROBABILITY,
+                         help="Genetic algorithm crossover probability")
+    optParser.add_option("", "--crossover-blend-alpha", action="store",
+                         dest="crossover_blend_alpha", type=float,
+                         default=CROSSOVER_BLEND_ALPHA,
+                         help="Genetic algorithm crossover blend alpha")
+
+    optParser.add_option("", "--mutation-probability", action="store",
+                         dest="mutation_probability", type=float,
+                         default=MUTATION_PROBABILITY,
+                         help="Genetic algorithm mutation probability")
+    optParser.add_option("", "--mutation-gaussian-mean", action="store",
+                         dest="mutation_gaussian_mean", type=float,
+                         default=MUTATION_GAUSSIAN_MEAN,
+                         help="Genetic algorithm mutation gaussian_mean")
+    optParser.add_option("", "--mutation-guassian-sigma", action="store",
+                         dest="mutation_gaussian_sigma", type=float,
+                         default=MUTATION_GAUSSIAN_SIGMA,
+                         help="Genetic algorithm mutation gaussian_sigma")
+    optParser.add_option("", "--mutation-independent-probability",
+                         action="store",
+                         dest="mutation_independent_probability", type=float,
+                         default=MUTATION_INDEPENDENT_PROBABILITY,
+                         help="Genetic algorithm mutation indep. probability")
+    
     (options, args) = optParser.parse_args()
     validate_options(options)
     return options
@@ -83,5 +126,6 @@ if settings is None:
     devnull = open(os.devnull, 'w')
     settings = parse_options()
     settings.step = 0
+    sys.stdout = open(settings.output, 'w') if settings.output else sys.stdout
     settings.stdout = sys.stdout if settings.verbose else devnull
     settings.stderr = sys.stderr if settings.verbose else devnull

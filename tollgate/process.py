@@ -73,7 +73,7 @@ def import_random_trips():
     if settings.vehicle_spawn_duration:
         vehicle_spawn_duration = settings.vehicle_spawn_duration
     ok_print('Random trip with spawn duration = {} and number of vehicles = {}'.format(
-        settings.vehicle_spawn_duration, settings.vehicle_count))
+        vehicle_spawn_duration, settings.vehicle_count))
     cmd = subprocess.Popen(
         [
             RANDOM_TRIPS, '-n', MAP_FILE,

@@ -14,12 +14,14 @@ MAP_FILE            = os.path.join(DATA_PATH, 'map.net.xml')
 DETECTOR_FILE       = os.path.join(DATA_PATH, 'map.det.xml')
 POLY_FILE           = os.path.join(DATA_PATH, 'map.poly.xml')
 TRIPS_FILE          = os.path.join(DATA_PATH, 'map.trips.xml')
+
 ROUTE_FILE          = os.path.join(DATA_PATH, 'map.rou.xml')
 
 OUTPUT_PATH         = os.path.join(SRC_PATH, 'output')
 TRIP_INFO_OUTPUT    = os.path.join(OUTPUT_PATH, 'tripinfo.xml')
 LOG_OUTPUT          = os.path.join(OUTPUT_PATH, 'output.log')
 TOLLGATE_OUTPUT     = os.path.join(OUTPUT_PATH, 'tollgate.xml')
+REROUTER_FILE       = os.path.join(OUTPUT_PATH, 'map.rerou.xml')
 
 SUMO_HOME           = os.path.realpath(
     os.environ.get("SUMO_HOME",
@@ -49,22 +51,24 @@ TRIP_START_TIME = 0
 TRIP_END_TIME   = 10000
 VEHICLE_COUNT   = 1000
 
-TOLLGATE_MIN_LANE_LENGTH      = 50
+TOLLGATE_MIN_LANE_LENGTH      = 60
 TOLLGATE_MIN_PRICE            = 0
 TOLLGATE_MAX_PRICE            = 100
 TOLLGATE_MAX_COUNT            = 20
 TOLLGATE_MIN_OFFSET           = 10
-TOLLGATE_COLLECTION_FREQUENCY = 120
+TOLLGATE_COLLECTION_FREQUENCY = 320
 
-INDIVIDUAL_SIZE       = 4
+INDIVIDUAL_SIZE       = 3
 POPULATION_SIZE       = 100
 GENERATION_SIZE       = 1000
-CROSSOVER_PROBABILITY = 0.4
-CROSSOVER_BLEND_APLHA = 0.2
 
-MUTATION_PROBABILITY             = 0.01
+CROSSOVER_PROBABILITY = 0.4
+CROSSOVER_BLEND_ALPHA = 0.2
+
+MUTATION_PROBABILITY             = 0.2
 MUTATION_GAUSSIAN_MEAN           = 0
 MUTATION_GAUSSIAN_SIGMA          = 2
-MUTATION_INDEPENDENT_PROBABILITY = 0.01
+MUTATION_INDEPENDENT_PROBABILITY = 0.1
 
+REROUTER_FMT='<rerouter id="{}" edges="{}" file="{}" probability="{}"/>'
 INDUCTION_LOOP_FMT = '<inductionLoop id="{}" lane="{}" pos="{}" freq="{}" file="{}"/>'

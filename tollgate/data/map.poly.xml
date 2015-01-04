@@ -1,4 +1,10 @@
 <additional>
-<inductionLoop id="0" lane="96823253_0" pos="67" freq="120" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="1" lane="-96823248_0" pos="99" freq="120" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<rerouter id="0" edges="-161671995#2 -24511548#1 24511548#2" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_0" probability="0.814801080006"/>
+<rerouter id="1" edges="24511548#3 -24448028#2 -24511548#2" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_1" probability="0.421413714775"/>
+<rerouter id="2" edges="-24511548#3" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_2" probability="0.145473080543"/>
+<rerouter id="3" edges="161671995#2 -96823243 -161671995#0 96823254#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_3" probability="0.806279311528"/>
+<inductionLoop id="0" lane="-24511548#2_0" pos="33.0" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<inductionLoop id="1" lane="24511548#2_0" pos="33.0812354348" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<inductionLoop id="2" lane="24511548#3_0" pos="22.3557154794" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<inductionLoop id="3" lane="-96823254#0_0" pos="39.0" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
 </additional>
