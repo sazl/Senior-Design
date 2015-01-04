@@ -28,12 +28,23 @@ def parse_options():
                          default=STEP_LENGTH,
                          help="Simulation step length")
     
-    optParser.add_option("-b", "--trip-start", action="store", dest="trip_start",
-                         default=TRIP_START_TIME,
+    optParser.add_option("-r", "--random-trips", action="store_true",
+                         dest="random_trips", default=None,
+                         help="Generate random trip")
+    optParser.add_option("-0", "--trip-start", action="store", dest="trip_start",
+                         default=TRIP_START_TIME, type=int,
                          help="Starting time for the random trips")
     optParser.add_option("-e", "--trip-end", action="store", dest="trip_end",
-                         default=TRIP_END_TIME,
+                         default=TRIP_END_TIME, type=int,
                          help="Ending time for the random trip")
+    optParser.add_option("-b", "--vehicle-count", action="store",
+                         dest="vehicle_count", type=int,
+                         default=VEHICLE_COUNT,
+                         help="Number of vehicles in the simulation")
+    optParser.add_option("-d", "--vehicle-spawn-duration", action="store",
+                         dest="vehicle_spawn_duration", type=float,
+                         default=None,
+                         help="Duration of time between vehicle spawns")
 
     optParser.add_option("-m", "--tollgate-min-price", action="store",
                          dest="tollgate_min_price", type=float,
