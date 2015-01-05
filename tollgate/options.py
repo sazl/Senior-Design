@@ -85,6 +85,10 @@ def parse_options():
                          dest="generation_size", type=int,
                          default=GENERATION_SIZE,
                          help="Genetic algorithm generation size")
+    optParser.add_option("", "--output-genealogy", action="store",
+                         dest="output_genealogy",
+                         default=None,
+                         help="Output generation successor tree")
     
     optParser.add_option("", "--crossover-probability", action="store",
                          dest="crossover_probability", type=float,

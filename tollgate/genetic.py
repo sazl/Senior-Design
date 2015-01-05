@@ -37,7 +37,7 @@ from tollgate   import Tollgate
 
 toolbox = base.Toolbox()
 population = None
-history = None
+history = tools.History()
 
 def individual_to_tollgates(individual):
     tollgates = []
@@ -64,7 +64,7 @@ def initialize():
     toolbox.register("edge_offset", random.randint,
                      settings.tollgate_min_offset,
                      settings.tollgate_min_lane_length)
-#    toolbox.register("operating_hours", random.randint, 1, 7)
+
     toolbox.register("individual", tools.initCycle, creator.Individual,
                      ( toolbox.price,
                        toolbox.edge_id,
@@ -80,12 +80,14 @@ def initialize():
     toolbox.register("select", tools.selTournament, tournsize=3)
     toolbox.register("evaluate", evaluate_fitness)
 
+    if settings.output_genealogy:
+        toolbox.decorate("mate", history.decorator)
+        toolbox.decorate("mutate", history.decorator)
+
 def run():
-    history = tools.History()
-    toolbox.decorate("mate", history.decorator)
-    toolbox.decorate("mutate", history.decorator)
     population = toolbox.population(n=settings.population_size)
-    history.update(population)
+    if settings.output_genealogy:
+        history.update(population)
     
     stats = tools.Statistics(key=lambda ind: ind.fitness.values)
     stats.register("avg", numpy.mean)
@@ -97,18 +99,19 @@ def run():
                                        mutpb=settings.mutation_probability,
                                        ngen=settings.generation_size,
                                        stats=stats, verbose=True)
+    output_results(pop, logbook)
+    if settings.output_genealogy:
+        show_genealogy()
 
-    print logbook
-    
+def output_results(pop, logbook):
+    print logbook    
     print '\n'
     for p in pop:
         for i in individual_to_tollgates(p):
             print i
-
     print '\nBEST\n\n'
     for i in individual_to_tollgates(tools.selBest(pop, 1)[0]):
         print i
-
 
 def show_genealogy():
     import matplotlib.pyplot as plt
@@ -118,4 +121,4 @@ def show_genealogy():
     graph = graph.reverse()
     colors = [toolbox.evaluate(history.genealogy_history[i])[0] for i in graph]
     networkx.draw(graph, node_color=colors)
-    plt.show()
+    plt.savefig(settings.output_genealogy)
