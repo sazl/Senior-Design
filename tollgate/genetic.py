@@ -96,11 +96,20 @@ def run():
     stats.register("std", numpy.std)
     stats.register("min", numpy.min)
     stats.register("max", numpy.max)
-    pop, logbook = run_algorithm(pop=population,
-                                 cxpb=settings.crossover_probability,
-                                 mutpb=settings.mutation_probability,
-                                 ngen=settings.generation_size,
-                                 stats=stats)
+
+    pop, logbook = None, None
+    if settings.screenshot_directory:
+        pop, logbook = run_algorithm(pop=population,
+                                     cxpb=settings.crossover_probability,
+                                     mutpb=settings.mutation_probability,
+                                     ngen=settings.generation_size,
+                                     stats=stats)
+    else:
+        pop, logbook = algorithms.eaSimple(population, toolbox,
+                                           cxpb=settings.crossover_probability,
+                                           mutpb=settings.mutation_probability,
+                                           ngen=settings.generation_size,
+                                           stats=stats, verbose=True)
     output_results(pop, logbook)
     if settings.output_genealogy:
         show_genealogy()
