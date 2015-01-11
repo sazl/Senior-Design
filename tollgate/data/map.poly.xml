@@ -1,42 +1,12 @@
 <additional>
-<rerouter id="0" edges="-96823254#2 96823254#3 -96823255" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_0" probability="0.128929873155"/>
-<rerouter id="1" edges="-96823253 -96823252#0 96823252#1" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_1" probability="0.935183504902"/>
-<rerouter id="2" edges="-96823249#2" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_2" probability="0.943615164426"/>
-<rerouter id="3" edges="96823252#1 -96823253 -96823252#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_3" probability="0.712817432022"/>
-<rerouter id="4" edges="96823254#0 161671995#2 -96823243 -161671995#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_4" probability="0.900572710264"/>
-<rerouter id="5" edges="-96823254#2 96823254#3 -96823255" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_5" probability="0.120261607662"/>
-<rerouter id="6" edges="-96823253 -96823252#0 96823252#1" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_6" probability="0.222106651603"/>
-<rerouter id="7" edges="-161671995#0 96823254#0 161671995#2 -96823243" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_7" probability="0.0181117206029"/>
-<rerouter id="8" edges="-96823251 -96823249#1 96823249#2" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_8" probability="0.955049683169"/>
-<rerouter id="9" edges="-96823252#2 -97817445#0 97817445#1" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_9" probability="0.909159385639"/>
-<rerouter id="10" edges="-24448028#1 96823243 24448028#2" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_10" probability="0.119181859939"/>
-<rerouter id="11" edges="-96823252#0 96823252#1 -96823253" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_11" probability="0.890430544604"/>
-<rerouter id="12" edges="96823251 -175565015#0 175565015#1" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_12" probability="0.984971824246"/>
-<rerouter id="13" edges="24511548#3 -24448028#2 -24511548#2" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_13" probability="0.421196410507"/>
-<rerouter id="14" edges="96823254#0 161671995#2 -96823243 -161671995#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_14" probability="0.168787025563"/>
-<rerouter id="15" edges="-175565015#0 175565015#1 96823251" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_15" probability="0.669034105626"/>
-<rerouter id="16" edges="-96823252#0 96823252#1 -96823253" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_16" probability="0.669060499413"/>
-<rerouter id="17" edges="96823250 96823249#1 -96823249#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_17" probability="0.60604814217"/>
-<rerouter id="18" edges="96823249#2 -96823251 -96823249#1" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_18" probability="0.882459566195"/>
-<rerouter id="19" edges="-24448028#0 161671995#0 24448028#1" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_19" probability="0.411513578273"/>
-<inductionLoop id="0" lane="96823255_0" pos="40" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="1" lane="-96823252#1_0" pos="11" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="2" lane="96823249#2_0" pos="20" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="3" lane="96823252#0_0" pos="13" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="4" lane="161671995#0_0" pos="37" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="5" lane="96823255_0" pos="19" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="6" lane="-96823252#1_0" pos="16" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="7" lane="96823243_0" pos="49" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="8" lane="-96823249#2_0" pos="57" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="9" lane="-97817445#1_0" pos="60" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="10" lane="-24448028#2_0" pos="34" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="11" lane="96823253_0" pos="33" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="12" lane="-175565015#1_0" pos="50" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="13" lane="24511548#2_0" pos="56" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="14" lane="161671995#0_0" pos="47" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="15" lane="-96823251_0" pos="50" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="16" lane="96823253_0" pos="59" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="17" lane="96823249#0_0" pos="29" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="18" lane="96823249#1_0" pos="46" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
-<inductionLoop id="19" lane="-24448028#1_0" pos="26" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<rerouter id="0" edges="-96823252#0 96823252#1 -96823253" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_0" probability="0.0497073481498"/>
+<rerouter id="1" edges="161671995#2 -96823243 -161671995#0 96823254#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_1" probability="0.0709726638224"/>
+<rerouter id="2" edges="96823254#0 161671995#2 -96823243 -161671995#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_2" probability="0.105576723897"/>
+<rerouter id="3" edges="96823244#1 -96823254#3 -96823244#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_3" probability="0.939194449151"/>
+<rerouter id="4" edges="96823244#0 175565015#1 -175565015#0" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/map.rerou.xml_4" probability="0.501295856957"/>
+<inductionLoop id="0" lane="96823253_0" pos="22.5428963463" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<inductionLoop id="1" lane="-96823254#0_0" pos="41.7736724052" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<inductionLoop id="2" lane="161671995#0_0" pos="50.596212351" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<inductionLoop id="3" lane="96823244#0_0" pos="55.4430554788" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
+<inductionLoop id="4" lane="175565015#0_0" pos="28.3178007536" freq="320" file="/home/sami/Programming/senior/Senior-Design/tollgate/output/tollgate.xml"/>
 </additional>

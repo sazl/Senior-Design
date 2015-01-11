@@ -38,6 +38,8 @@ from tollgate   import Tollgate
 toolbox = base.Toolbox()
 population = None
 history = tools.History()
+logbook = tools.Logbook()
+logbook.header = "gen", "evals", "min", "avg", "max", "std"
 
 def individual_to_tollgates(individual):
     tollgates = []
@@ -94,14 +96,41 @@ def run():
     stats.register("std", numpy.std)
     stats.register("min", numpy.min)
     stats.register("max", numpy.max)
-    pop, logbook = algorithms.eaSimple(population, toolbox,
-                                       cxpb=settings.crossover_probability,
-                                       mutpb=settings.mutation_probability,
-                                       ngen=settings.generation_size,
-                                       stats=stats, verbose=True)
+    pop, logbook = run_algorithm(pop=population,
+                                 cxpb=settings.crossover_probability,
+                                 mutpb=settings.mutation_probability,
+                                 ngen=settings.generation_size,
+                                 stats=stats)
     output_results(pop, logbook)
     if settings.output_genealogy:
         show_genealogy()
+
+def run_algorithm(pop, cxpb, mutpb, ngen, stats):
+    for g in range(ngen):
+        state.generation = g
+        settings.output_statistics.write('\nGeneration {}\n\n'.format(g))
+        offspring = map(toolbox.clone, toolbox.select(pop, len(pop)))
+        offspring = algorithms.varAnd(offspring, toolbox, cxpb, mutpb)
+        invalid_ind = [ind for ind in offspring if not ind.fitness.valid]
+ 
+        fitnesses = []
+        for i, ind in enumerate(invalid_ind):
+            state.individual = i
+            fitness = toolbox.evaluate(ind)
+            fitnesses.append(fitness)
+            settings.output_statistics.write(
+                'Individiaul {} Fitness {} Price {} Edge {} Offset {}\n'.format(
+                    i, fitness, ind[0], state.edges_list[int(ind[1]) % len(state.edges)], ind[2]))
+            settings.output_statistics.flush()
+        for ind, fit in zip(invalid_ind, fitnesses):
+            ind.fitness.values = fit
+
+        pop[:] = offspring
+        nevals = len(fitness)
+        record = stats.compile(pop)
+        logbook.record(gen=g, evals=nevals, **record)
+        settings.output_statistics.write('\n\n' + str(logbook) + '\n\n')
+        settings.output_statistics.flush()
 
 def output_results(pop, logbook):
     print logbook    

@@ -87,7 +87,8 @@ def run_sumo(sumoExe=SUMO):
             "--tripinfo-output", TRIP_INFO_OUTPUT,
             "-l", LOG_OUTPUT,
             "--remote-port", str(settings.port),
-            '--no-step-log'
+            '--no-step-log', '--no-duration-log',
+            "-S", "-Q"
         ],
         stdout=settings.stdout,
         stderr=settings.stderr
@@ -110,6 +111,15 @@ def run_simulation():
     try:
         while state.step < settings.step_limit:
             simulation_step()
+        if settings.gui and settings.screenshot_directory:
+            fname = 'gen_{}_individual_{}.png'.format(
+                state.generation,
+                state.individual)
+            save_name = os.path.join(settings.screenshot_directory, fname)
+            try:
+                traci.gui.screenshot('View #0', save_name)
+            except Exception as e:
+                error_print('Failed to take screenshot ' + save_name)
     finally:
         traci.close()
         sumoProcessCmd.wait()

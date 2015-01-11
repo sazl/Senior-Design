@@ -9,7 +9,7 @@
   <node id='265696502' action='delete' timestamp='2012-08-07T14:38:34Z' uid='18885' user='Tommy' visible='true' version='9' changeset='12646233' lat='25.212191' lon='55.2913556' />
   <node id='265696503' action='delete' timestamp='2012-08-07T14:38:34Z' uid='18885' user='Tommy' visible='true' version='12' changeset='12646233' lat='25.2084012' lon='55.2907501' />
   <node id='265696504' action='delete' timestamp='2012-08-07T14:38:34Z' uid='18885' user='Tommy' visible='true' version='9' changeset='12646233' lat='25.2076887' lon='55.290614' />
-  <node id='265696506' timestamp='2012-08-07T14:38:34Z' uid='18885' user='Tommy' visible='true' version='10' changeset='12646233' lat='25.2075425' lon='55.2904923' />
+  <node id='265696506' action='delete' timestamp='2012-08-07T14:38:34Z' uid='18885' user='Tommy' visible='true' version='10' changeset='12646233' lat='25.2075425' lon='55.2904923' />
   <node id='265696507' action='delete' timestamp='2012-08-07T14:38:34Z' uid='18885' user='Tommy' visible='true' version='10' changeset='12646233' lat='25.2075332' lon='55.2903354' />
   <node id='265696508' timestamp='2012-08-07T14:38:34Z' uid='18885' user='Tommy' visible='true' version='10' changeset='12646233' lat='25.2078904' lon='55.2877923' />
   <node id='265696509' timestamp='2011-01-26T14:18:39Z' uid='18885' user='Tommy' visible='true' version='9' changeset='7093846' lat='25.2079067' lon='55.287439' />
@@ -27,7 +27,7 @@
   <node id='265714797' timestamp='2011-01-26T14:18:36Z' uid='18885' user='Tommy' visible='true' version='2' changeset='7093846' lat='25.2024632' lon='55.2847327' />
   <node id='265714798' timestamp='2011-01-26T14:18:37Z' uid='18885' user='Tommy' visible='true' version='2' changeset='7093846' lat='25.2023317' lon='55.2847419' />
   <node id='265714799' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='4' changeset='15098940' lat='25.2022491' lon='55.2848107' />
-  <node id='265869545' action='modify' timestamp='2011-01-26T14:18:38Z' uid='18885' user='Tommy' visible='true' version='2' changeset='7093846' lat='25.20042228711' lon='55.28960084082' />
+  <node id='265869545' action='delete' timestamp='2011-01-26T14:18:38Z' uid='18885' user='Tommy' visible='true' version='2' changeset='7093846' lat='25.20042228711' lon='55.28960084082' />
   <node id='265869620' action='delete' timestamp='2012-08-14T22:09:40Z' uid='18885' user='Tommy' visible='true' version='3' changeset='12732672' lat='25.2012019' lon='55.2917571' />
   <node id='444995892' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='4' changeset='15098940' lat='25.208466' lon='55.2823353' />
   <node id='444995894' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='3' changeset='15098940' lat='25.2033508' lon='55.2815561' />
@@ -35,7 +35,7 @@
   <node id='1121799598' timestamp='2011-01-26T14:18:35Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2032413' lon='55.2816284' />
   <node id='1121799600' timestamp='2011-01-26T14:18:35Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2016127' lon='55.2887219' />
   <node id='1121799601' timestamp='2011-01-26T14:18:36Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2020009' lon='55.286058' />
-  <node id='1121799607' action='modify' timestamp='2011-01-26T14:18:37Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.20146632611' lon='55.28974819033' />
+  <node id='1121799607' action='delete' timestamp='2011-01-26T14:18:37Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.20146632611' lon='55.28974819033' />
   <node id='1121799620' action='delete' timestamp='2011-01-26T14:18:38Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2059344' lon='55.2931553' />
   <node id='1121799624' timestamp='2012-08-07T14:38:28Z' uid='18885' user='Tommy' visible='true' version='2' changeset='12646233' lat='25.2077222' lon='55.2889498' />
   <node id='1121799626' timestamp='2012-08-07T14:38:28Z' uid='18885' user='Tommy' visible='true' version='2' changeset='12646233' lat='25.2079198' lon='55.2863667' />
@@ -50,12 +50,12 @@
   <node id='1121799657' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.2063399' lon='55.2887026' />
   <node id='1121799658' action='delete' timestamp='2011-01-26T14:18:42Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2061115' lon='55.2918024' />
   <node id='1121799659' action='delete' timestamp='2011-01-26T14:18:42Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2062357' lon='55.2908536' />
-  <node id='1121799660' action='modify' timestamp='2011-01-26T14:18:42Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.20620659046' lon='55.28964778' />
-  <node id='1121799662' action='modify' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.20211404577' lon='55.28937656353' />
+  <node id='1121799660' action='delete' timestamp='2011-01-26T14:18:42Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.20620659046' lon='55.28964778' />
+  <node id='1121799662' action='delete' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.20211404577' lon='55.28937656353' />
   <node id='1121799675' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.2011154' lon='55.2847409' />
   <node id='1121799676' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.2009598' lon='55.2858416' />
   <node id='1121799677' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.2005748' lon='55.2885649' />
-  <node id='1121799678' action='modify' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.20034433303' lon='55.28574280107' />
+  <node id='1121799678' action='delete' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.20034433303' lon='55.28574280107' />
   <node id='1121799679' action='delete' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.1994672' lon='55.2856082' />
   <node id='1121799680' action='delete' timestamp='2013-02-20T11:26:19Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940' lat='25.1993415' lon='55.2857605' />
   <node id='1121799681' action='delete' timestamp='2012-08-11T10:21:29Z' uid='476483' user='lorenzo23622' visible='true' version='2' changeset='12689445' lat='25.1971385' lon='55.2899093' />
@@ -77,7 +77,7 @@
   <node id='1121799707' timestamp='2011-01-26T14:18:46Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2031859' lon='55.2858538' />
   <node id='1121799708' timestamp='2011-01-26T14:18:46Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2028385' lon='55.2857989' />
   <node id='1121799709' timestamp='2011-01-26T14:18:46Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846' lat='25.2027392' lon='55.2858949' />
-  <node id='1132269474' timestamp='2012-08-07T14:38:29Z' uid='18885' user='Tommy' visible='true' version='2' changeset='12646233' lat='25.1998132' lon='55.284527' />
+  <node id='1132269474' action='delete' timestamp='2012-08-07T14:38:29Z' uid='18885' user='Tommy' visible='true' version='2' changeset='12646233' lat='25.1998132' lon='55.284527' />
   <node id='1855656602' action='delete' timestamp='2012-08-07T14:37:45Z' uid='18885' user='Tommy' visible='true' version='1' changeset='12646233' lat='25.2076164' lon='55.2905824' />
   <node id='1855656604' timestamp='2012-08-07T14:37:45Z' uid='18885' user='Tommy' visible='true' version='1' changeset='12646233' lat='25.2079089' lon='55.2867242' />
   <node id='1855656624' timestamp='2012-08-07T14:37:46Z' uid='18885' user='Tommy' visible='true' version='1' changeset='12646233' lat='25.20795' lon='55.2859431' />
@@ -93,7 +93,7 @@
   <node id='2163709821' timestamp='2013-02-20T11:26:16Z' uid='18885' user='Tommy' visible='true' version='1' changeset='15098940' lat='25.2042535' lon='55.2817082' />
   <node id='2163709823' timestamp='2013-02-20T11:26:16Z' uid='18885' user='Tommy' visible='true' version='1' changeset='15098940' lat='25.2054686' lon='55.2818285' />
   <node id='2163709825' timestamp='2013-02-20T11:26:16Z' uid='18885' user='Tommy' visible='true' version='1' changeset='15098940' lat='25.2081404' lon='55.2846091' />
-  <node id='2163709833' timestamp='2013-02-20T11:26:16Z' uid='18885' user='Tommy' visible='true' version='1' changeset='15098940' lat='25.2086033' lon='55.281269' />
+  <node id='2163709833' action='delete' timestamp='2013-02-20T11:26:16Z' uid='18885' user='Tommy' visible='true' version='1' changeset='15098940' lat='25.2086033' lon='55.281269' />
   <way id='24448028' timestamp='2013-02-20T11:26:18Z' uid='18885' user='Tommy' visible='true' version='8' changeset='15098940'>
     <nd ref='2163709819' />
     <nd ref='265714781' />
@@ -124,7 +124,6 @@
     <tag k='junction' v='roundabout' />
   </way>
   <way id='24511548' action='modify' timestamp='2013-02-20T11:26:17Z' uid='18885' user='Tommy' visible='true' version='13' changeset='15098940'>
-    <nd ref='265696506' />
     <nd ref='1121799624' />
     <nd ref='265696508' />
     <nd ref='265696509' />
@@ -133,7 +132,6 @@
     <nd ref='1855656624' />
     <nd ref='2163709825' />
     <nd ref='444995892' />
-    <nd ref='2163709833' />
     <tag k='highway' v='tertiary' />
   </way>
   <way id='96823243' timestamp='2011-01-26T14:18:41Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846'>
@@ -154,29 +152,22 @@
     <tag k='highway' v='residential' />
     <tag k='source' v='Bing' />
   </way>
-  <way id='96823245' action='modify' timestamp='2011-01-26T14:18:42Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846'>
-    <nd ref='1121799660' />
-    <nd ref='1121799657' />
+  <way id='96823245' action='delete' timestamp='2011-01-26T14:18:42Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846'>
     <tag k='highway' v='residential' />
     <tag k='source' v='Bing' />
   </way>
-  <way id='96823248' timestamp='2011-01-26T14:18:43Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846'>
-    <nd ref='1121799650' />
-    <nd ref='1121799662' />
+  <way id='96823248' action='delete' timestamp='2011-01-26T14:18:43Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846'>
     <tag k='highway' v='residential' />
     <tag k='source' v='Bing' />
   </way>
-  <way id='96823249' timestamp='2011-01-26T14:18:44Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846'>
+  <way id='96823249' action='modify' timestamp='2011-01-26T14:18:44Z' uid='18885' user='Tommy' visible='true' version='1' changeset='7093846'>
     <nd ref='1121799675' />
     <nd ref='1121799676' />
     <nd ref='1121799677' />
-    <nd ref='265869545' />
     <tag k='highway' v='residential' />
     <tag k='source' v='Bing' />
   </way>
-  <way id='96823250' action='modify' timestamp='2012-08-11T10:21:31Z' uid='476483' user='lorenzo23622' visible='true' version='2' changeset='12689445'>
-    <nd ref='1121799676' />
-    <nd ref='1121799678' />
+  <way id='96823250' action='delete' timestamp='2012-08-11T10:21:31Z' uid='476483' user='lorenzo23622' visible='true' version='2' changeset='12689445'>
     <tag k='highway' v='residential' />
     <tag k='source' v='Bing' />
   </way>
@@ -237,8 +228,7 @@
     <tag k='highway' v='residential' />
     <tag k='source' v='Bing' />
   </way>
-  <way id='97817445' timestamp='2013-02-20T11:26:18Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940'>
-    <nd ref='1132269474' />
+  <way id='97817445' action='modify' timestamp='2013-02-20T11:26:18Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940'>
     <nd ref='1121799695' />
     <nd ref='1121799675' />
     <nd ref='1121799684' />
@@ -254,7 +244,6 @@
     <tag k='highway' v='residential' />
   </way>
   <way id='175565015' action='modify' timestamp='2013-02-20T11:26:18Z' uid='18885' user='Tommy' visible='true' version='2' changeset='15098940'>
-    <nd ref='1121799607' />
     <nd ref='1121799600' />
     <nd ref='1121799648' />
     <nd ref='1121799601' />

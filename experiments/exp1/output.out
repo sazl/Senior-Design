@@ -1,0 +1,2720 @@
+[32mImporting map /home/sami/Programming/senior/Senior-Design/data/Simple.osm
+[39m[49m[0m
+[32mFiltering nodes
+[39m[49m[0m
+[32mConverting to SUMO net file
+[39m[49m[0m
+[32mGenerating polygon typemap
+[39m[49m[0m
+[32mDone!
+[39m[49m[0m
+[32mGenerating random trips
+[39m[49m[0m
+[32mDeleted /home/sami/Programming/senior/Senior-Design/tollgate/data/map.trips.xml
+[39m[49m[0m
+[32mRandom trip with spawn duration = 100 and number of vehicles = 1000
+[39m[49m[0m
+[32mGenerating routes
+[39m[49m[0m
+[32mDone!
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 66.0682621122, position = 53, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 46.1513836302, position = 10, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 54.8442920607, position = 55, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 5.53593148205, position = 55, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 29.4552776324, position = 32, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 97.5706741238, position = 14, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 80.1282702539, position = 41, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 95.2558149711, position = 51, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 66.4748307672, position = 51, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 18.3360048194, position = 38, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 44.987284222, position = 30, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 41.0413105009, position = 39, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 97.5070147918, position = 17, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 11.5898223429, position = 33, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 3.88253728711, position = 13, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 21.2036389369, position = 26, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 35.5155228702, position = 19, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 86.407008342, position = 28, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 49.5174396293, position = 58, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 63.2370540856, position = 41, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 44.0262688671, position = 27, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 27.1335030772, position = 41, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 19.1886298876, position = 24, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 28.9223125401, position = 46, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 45.946153132, position = 10, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 36.6769725648, position = 15, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 75.9021384188, position = 46, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 2.26687368458, position = 22, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 26.4579556497, position = 48, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 61.7540100537, position = 42, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 3.95238645961, position = 47, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 36.6894100252, position = 59, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 60.4427037352, position = 12, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 80.827622966, position = 26, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 16.6069668233, position = 36, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 19.9113463896, position = 36, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 38.751506305, position = 16, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 5.6036068188, position = 22, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 17.4870791142, position = 27, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 18.2217169669, position = 11, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 78.0107022883, position = 34, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 48.4666795863, position = 48, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 56.0360176626, position = 15, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 39.9287512804, position = 15, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 97.6167194351, position = 10, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 33.6030064336, position = 17, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 61.2331809649, position = 24, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 30.7292070128, position = 60, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 99.9968647177, position = 53, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 8.84273069051, position = 32, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 89.52133146, position = 59, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 93.3975950177, position = 49, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 8.35664678539, position = 37, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 33.5556705919, position = 35, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 62.1380106413, position = 16, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 63.9091746867, position = 40, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 90.4931864507, position = 44, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 88.328086596, position = 42, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 12.6697089367, position = 57, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 1.48170004882, position = 56, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 29.5030122701, position = 25, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 99.411404185, position = 39, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 49.3098946188, position = 29, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 65.9274259753, position = 59, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 8.53370666315, position = 49, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 92.1734399144, position = 29, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 52.5911250929, position = 33, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 24.9801505304, position = 15, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 71.4634814732, position = 48, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 35.5678321569, position = 44, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 22.4258616161, position = 24, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 99.368187831, position = 38, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 95.3711535007, position = 14, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 66.961624574, position = 22, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 31.5954759654, position = 39, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 87.5685205098, position = 36, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 11.0333290798, position = 55, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 21.3507274517, position = 48, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 39.4961932467, position = 30, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 21.9584049933, position = 38, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 66.0682621122, position = 53, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 46.1513836302, position = 10, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 54.8442920607, position = 55, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 5.53593148205, position = 55, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 29.4552776324, position = 32, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 97.5706741238, position = 14, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 80.1282702539, position = 41, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 95.2558149711, position = 51, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 66.4748307672, position = 51, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 20.4467774205, position = 38, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 85.4525023527, position = 17, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 60.6329169386, position = 52, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 3.21603961193, position = 58, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 42.9815520126, position = 49, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 71.6139904034, position = 54, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 16.9594159328, position = 13, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 28.4844103448, position = 54, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 52.142267659, position = 31, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 36.8489653368, position = 14, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 7.68717946643, position = 31, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 97.2785800596, position = 10, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 56.402467298, position = 38, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 7.74706494017, position = 31, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 30.2118384482, position = 49, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 71.4938912457, position = 45, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 62.9360915776, position = 50, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 40.9649057366, position = 60, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 8.99870686919, position = 41, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 87.842262161, position = 57, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 14.2563319318, position = 49, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 69.6723619919, position = 35, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 36.9766785885, position = 50, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 69.0817557152, position = 35, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 40.4427082354, position = 17, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 0.633823491297, position = 15, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 94.5014472073, position = 21, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 14.2027837395, position = 44, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 90.5728328145, position = 31, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 99.7466640141, position = 25, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 75.475548578, position = 32, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 89.52133146, position = 59, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 93.3975950177, position = 49, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 8.35664678539, position = 37, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 33.5556705919, position = 35, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 64.9306447154, position = 16, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 63.9091746867, position = 40, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 90.4931864507, position = 44, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 86.9689816935, position = 42, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 12.6697089367, position = 57, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = -0.230247386144, position = 56.5796130091, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 97.3420971477, position = 26, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 84.4464777369, position = 35, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 18.8145419508, position = 27, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 16.3064125968, position = 25.0669356342, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 25.6540337094, position = 14, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 99.3243258163, position = 24, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 66.5774993594, position = 48, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 31.6401309364, position = 21, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 46.6871628848, position = 39, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 53.9329878756, position = 11.7957685034, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 39.8090074195, position = 43, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 74.8428508668, position = 23, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 29.1136821421, position = 42, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 91.7084088862, position = 51, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 84.9432919115, position = 33, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 50.819373116, position = 17, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 91.9577307889, position = 32, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 12.3005563465, position = 14, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 39.8088285443, position = 45, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 21.0934569507, position = 26, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 0.0191351722488, position = 49, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 25.437731569, position = 43, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 24.2181394514, position = 28, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 94.1335900055, position = 20, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 10.0181711764, position = 36, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 89.5547490535, position = 38, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 68.5202244823, position = 60, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 61.8634682853, position = 19, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 94.4153890985, position = 56, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 92.9171707489, position = 48, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 73.6450993453, position = 37, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 94.5795781905, position = 20, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 70.8685752496, position = 53, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 73.1102833068, position = 35, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 60.7793644726, position = 17, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 25.4851263233, position = 23, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 44.3076908742, position = 22, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 63.6223690867, position = 14, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 38.6805781173, position = 46, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 19.4939221376, position = 38, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 25.3485504088, position = 51, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 13.2252588587, position = 33, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 62.4012381439, position = 39, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 80.7056218736, position = 31, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 11.6751434265, position = 48, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 17.3407926961, position = 40, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 75.0156985564, position = 38, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 81.5351193675, position = 45, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 35.3404805902, position = 41, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 34.0816369816, position = 43, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 23.7649860967, position = 10.3840768731, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 92.7614806665, position = 25.1698365671, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 53.1363155199, position = 32.9750426058, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 38.8598638593, position = 39.6301102333, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 52.3927430026, position = 11.7381090659, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 61.066132844, position = 38.5705738301, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 16.0892881686, position = 30.2088127816, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 51.9020194757, position = 14.4009885775, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 69.3587231027, position = 23.3021265496, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 17.7419326268, position = 36.787759742, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 43.1601832225, position = 10.6159231269, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 48.0311999042, position = 25.8301634329, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 59.4813082092, position = 43.0249573942, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 30.8204327298, position = 35.3698897667, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 54.0105430117, position = 24.2618909341, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 62.4001494933, position = 23.3799074523, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 35.5960072491, position = 9.79118721839, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 69.8834718257, position = 16.5990114225, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 47.2129642761, position = 21.6978734504, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 39.5007380613, position = 52.212240258, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 53.93214084, position = 22, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 72.0463732978, position = 45, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 64.5294449166, position = 35, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 63.1936351511, position = 46, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 45.3363018387, position = 56, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 58.292248276, position = 26, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 26.1803059867, position = 56, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 38.6871464586, position = 28, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 21.7806138976, position = 50, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 78.0633832293, position = 34, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 10.2095596911, position = 18, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 71.0794646392, position = 20, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 30.389814549, position = 46, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 18.663030599, position = 60.1818421263, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 18.2091558566, position = 57, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 19.5386393811, position = 59, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 95.0603626441, position = 32, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 37.7869802804, position = 22, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 36.0185209084, position = 53, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 81.9320682622, position = 54, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 44.987284222, position = 30, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 41.0413105009, position = 39, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 97.5070147918, position = 17, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 11.5898223429, position = 33, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 3.88253728711, position = 13, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 21.2036389369, position = 26, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 35.5155228702, position = 19, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 86.407008342, position = 28, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 49.5174396293, position = 58, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 63.2370540856, position = 41, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 91.422682848, position = 60, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 27.4735013423, position = 46, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 64.0626033127, position = 30, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 88.2715733603, position = 10, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 16.2830725488, position = 35, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 44.089744437, position = 11, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 63.2933219617, position = 50, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 46.8056886608, position = 34, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 79.6570598504, position = 23, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 72.2478169573, position = 11, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 69.5819903778, position = 55, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 12.1481563562, position = 34, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 86.3743300494, position = 18, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 35.0315702381, position = 32, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 11.5813207883, position = 21, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 98.2817786934, position = 57, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 72.0949292293, position = 25, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 46.8516575746, position = 23, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 92.4197988485, position = 21, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 84.9289507329, position = 36, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 43.5366135805, position = 38, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 38.0588845785, position = 47, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 78.6301929989, position = 45, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 66.095869931, position = 52, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 97.7849234811, position = 51, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 81.7593855035, position = 47, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 85.8865677845, position = 60, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 2.71881125632, position = 24, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 74.377801762, position = 32, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 74.6810137242, position = 25, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 43.5366135805, position = 38, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 38.0588845785, position = 47, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 78.6301929989, position = 45, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 66.095869931, position = 52, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 97.7849234811, position = 51, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 81.7593855035, position = 47, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 85.8865677845, position = 60, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 2.71165085028, position = 24, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 74.377801762, position = 32, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 74.6810137242, position = 25, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 12.8723776601, position = 41.7980121554, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 54.2087389468, position = 55, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 21.3465598727, position = 35, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 56.6046519594, position = 47, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 27.1700823202, position = 41.3480071707, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 84.2488247457, position = 31, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 63.7210749811, position = 53, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 21.9702649034, position = 32, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 67.6886458757, position = 34, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 54.6562646166, position = 32, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 77.3492141464, position = 23.2369961708, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 53.7973687661, position = 21.3825204735, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 43.5822719704, position = 33.3427440447, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 12.6905354646, position = 18.026815173, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 28.2823681212, position = 28.5446379935, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 61.9327478605, position = 23.5027817382, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 59.8851564296, position = 47.0623708273, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 51.4915880827, position = 12.4077033345, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 42.091146767, position = 31.0565936662, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 90.7487198846, position = 61.1827142139, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 60.7769774576, position = 31.7630038292, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 47.6253444642, position = 25.6174795265, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 77.189756739, position = 27.6572559553, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 10.634082488, position = 18.973184827, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 98.3120867356, position = 22.4553620065, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 21.8254449098, position = 25.4972182618, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 24.6639147855, position = 31.9376291727, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 44.3487270221, position = 32.5922966655, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 6.53647509424, position = 28.9434063338, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 36.0537272487, position = 17.8172857861, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 73.4849613977, position = 41.8901074441, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 67.8191227952, position = 46.1960079618, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 60.8994205918, position = 29.419850672, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 58.6659345641, position = 41.8677122662, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 35.9727893718, position = 42.3460438424, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 66.5503959704, position = 22.0251972729, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 27.4027029225, position = 61.6823885052, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 58.636629558, position = 41.6588135276, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 48.291465323, position = 52.6113765716, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 11.4410560041, position = 51.318118125, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 80.080017906, position = 40.1098925559, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 57.611016066, position = 22.8039920382, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 28.9632674761, position = 30.580149328, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 91.3153889399, position = 46.1322877338, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 24.7934689793, position = 25.6539561576, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 78.175935706, position = 18.9748027271, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 27.6602572679, position = 16.3176114948, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 79.4482310278, position = 30.3411864724, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 36.9377186903, position = 50.3886234284, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 86.9441166598, position = 37.681881875, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 54.4669322455, position = 11, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 53.2067702453, position = 36, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 50.7231850156, position = 31, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 38.4967383071, position = 24, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 48.7609932548, position = 24, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 58.9029199709, position = 41, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 35.885577009, position = 28, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 86.7897238665, position = 11, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 27.255006936, position = 16, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 18.4284245493, position = 53, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 97.2785800596, position = 10, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 56.402467298, position = 38, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 7.74706494017, position = 31, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 30.2118384482, position = 49, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 71.4938912457, position = 45, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 62.9360915776, position = 50, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 40.9649057366, position = 60, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 8.99870686919, position = 41, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 87.842262161, position = 57, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 14.2563319318, position = 49, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 97.877310484, position = 16, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 77.792280976, position = 26, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 14.3382225431, position = 29, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 87.2739214959, position = 28, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 27.4628527924, position = 60, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 31.1447215045, position = 21, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 37.2566796567, position = 59, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 37.2567865152, position = 59, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 9.10051459143, position = 49, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 90.6256774817, position = 16, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 73.6450993453, position = 37, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 94.5795781905, position = 20, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 70.8685752496, position = 53, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 73.1102833068, position = 35, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 60.7793644726, position = 17, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 25.4851263233, position = 23, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 44.3076908742, position = 22, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 63.6223690867, position = 14, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 38.6805781173, position = 46, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 19.4939221376, position = 38, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 62.8551902078, position = 33.7231475051, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 59.9898117822, position = 30.793982716, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 84.6819992468, position = 47.2310712275, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 48.2974464707, position = 59.807398605, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 68.68623496, position = 22.6925241014, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 17.0219980758, position = 34.1984796257, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 6.36953131381, position = 29.0207276278, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 74.0158432595, position = 40.7684925849, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 51.2087929529, position = 47.9675146176, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 39.1155687931, position = 14.5503588424, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 83.2557782854, position = 33.2768524949, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 16.0974834608, position = 28.206017284, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 62.5157324961, position = 49.7689287725, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 83.1094826244, position = 59.192601395, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 32.252608444, position = 21.3074758986, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 36.5176435032, position = 54.8015203743, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 12.4191564479, position = 48.9792723722, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 19.3317060535, position = 32.2315074151, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 3.15423172441, position = 29.0324853824, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 41.9176803001, position = 42.4496411576, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 28.8532330161, position = 44, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 66.1891653875, position = 33, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 22.6478412449, position = 58, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 67.7209923988, position = 17, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 65.1015875452, position = 34, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 67.6321041783, position = 53, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 95.8374902813, position = 33, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 15.0671973581, position = 46, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 68.5887200898, position = 59, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 92.9391529619, position = 58, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 99.467719832, position = 46, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 90.8953291185, position = 36, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 43.1374714435, position = 13, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 33.54302141, position = 41, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 83.7299491906, position = 40, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 73.7195716483, position = 16, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 61.6506808513, position = 53, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 14.8762294133, position = 55, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 54.7866884099, position = 22, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 54.8626021875, position = 11, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 58.6339564061, position = 16, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 34.5436205644, position = 40, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 53.9206787686, position = 27, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 72.4439711458, position = 33, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 21.6632029217, position = 53, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 70.1023964947, position = 11, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 78.3710655174, position = 35, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 61.8356722996, position = 17, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 16.9077891543, position = 30, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 96.2875580433, position = 30, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 2.43701946147, position = 52, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 14.273768491, position = 40, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 71.8181700467, position = 16, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 26.7682179797, position = 33, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 53.7142925225, position = 47, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 73.151828577, position = 13, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 92.6158272562, position = 46, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 51.2720573126, position = 41, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 79.2055459745, position = 10, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 11.8527848132, position = 60, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 36.0346309576, position = 60, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 56.9872379679, position = 25, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 59.9206655763, position = 55, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 82.6930229222, position = 15, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 4.04289394592, position = 33, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 51.3542325746, position = 59, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 30.2090456338, position = 30, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 31.2236314774, position = 50, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 61.4806627969, position = 12, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 76.6453471056, position = 31, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 3.95238645961, position = 47, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 36.6894100252, position = 59, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 60.4427037352, position = 12, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 80.827622966, position = 26, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 16.6069668233, position = 36, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 19.9113463896, position = 36, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 38.751506305, position = 16, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 5.6036068188, position = 22, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 17.4870791142, position = 27, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 18.2217169669, position = 11, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 53.1029398924, position = 18.5210745031, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 22.9328626741, position = 9.62174331647, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 71.7519310196, position = 33.3175495029, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 34.152837417, position = 40.683139786, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 23.0069917157, position = 40.1691614841, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 19.7510375658, position = 32.1254173598, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 55.3093077815, position = 51.5948386259, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 22.6790467322, position = 49.1935426677, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 72.184708621, position = 33.8720316889, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 12.2041987931, position = 25.5599742032, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 22.616194036, position = 51.4789254969, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 27.2913459576, position = 38.3782566835, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 74.0411299503, position = 49.6824504971, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 34.5512595792, position = 15.316860214, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 78.5042202562, position = 32.8308385159, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 85.8096041425, position = 33.8745826402, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 45.9771342146, position = 51.4051613741, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 33.8990655713, position = 29.8064573323, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 6.64535735872, position = 38.1279683111, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 63.2636318916, position = 23.4400257968, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 34.462556614, position = 40.4272039701, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 104.838636726, position = 40.6715042925, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 78.6167416643, position = 47.1288391334, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 54.2445301337, position = 23.0641857118, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 20.5527180014, position = 39.364568847, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 37.8428832696, position = 40.8499076823, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 85.9779660605, position = 37.2857004939, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 84.9013239893, position = 18.871600472, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 92.5592573912, position = 42.110786686, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 67.8135354898, position = 40.6758338992, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 45.8577135456, position = 46.5727960299, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = -1.59756559798, position = 35.3284957075, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 65.3238510165, position = 43.4322001853, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 62.984843265, position = 30.9358142882, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 72.163271472, position = 42.635431153, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 20.5347034333, position = 15.1500923177, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 5.58941040226, position = 37.7142995061, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 31.5901977857, position = 49.128399528, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 31.695554842, position = 26.889213314, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 36.861282067, position = 29.3241661008, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 72.4299476764, position = 60, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 59.2314212952, position = 22.9102119904, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 28.9190007963, position = 58, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 17.6335317498, position = 46, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 5.82015475105, position = 23, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 59.5195371195, position = 44, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 17.253382011, position = 38, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 83.7592088836, position = 55, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 31.9926158911, position = 15, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 8.92793898699, position = 36, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 54.9717197509, position = 36, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 90.0158122689, position = 43, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 81.5393545369, position = 51, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 36.5237515251, position = 23, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 81.0408460469, position = 34, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 41.0367940067, position = 16, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 16.5516779064, position = 37, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 34.9564024075, position = 23, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 88.914331643, position = 27.6168104455, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 70.5931805752, position = 27, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 55.9876214012, position = 39, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 32.5538468622, position = 11, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 37.6178304316, position = 28, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 6.84595158216, position = 20, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 34.1165569906, position = 31, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 80.5792425119, position = 23, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 59.4851130092, position = 47, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 52.3159417349, position = 10, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 0.196574620359, position = 26, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 27.2577618003, position = 22, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 10.5034331679, position = 33, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 51.2626426533, position = 11, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 15.1106932189, position = 24, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 1.51552359739, position = 32, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 88.6076869859, position = 50, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 13.853467311, position = 59, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 12.092671465, position = 26, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 39.5424221063, position = 41, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 19.559244883, position = 47, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 88.1829336944, position = 59, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 85.3348081974, position = 30.8548804641, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 66.7633964852, position = 33.8168884081, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 26.4771025482, position = 37.8918936256, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 96.9969203864, position = 56.2648089819, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 5.09392738171, position = 17.711612615, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 37.8732730708, position = 52.5720965522, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 28.7774925851, position = 37.6509097892, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = -2.18533383275, position = 23.4547252396, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = -0.940104017576, position = 44.7751821853, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 50.7771818773, position = 42.2698488354, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 12.2408058123, position = 28.1451195359, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 58.6601035862, position = 32.1831115919, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 64.3672871968, position = 50.1081063744, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 51.3060551243, position = 58.7351910181, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 28.8051853987, position = 18.288387385, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 40.2488048266, position = 48.4279034478, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 34.6546105167, position = 28.3490902108, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 104.215493673, position = 46.5452747604, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 94.7736809621, position = 44.2248178147, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 82.817242748, position = 35.7301511646, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 10.2825559071, position = 10, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 87.5859103254, position = 15, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 61.8944387135, position = 45.4519281811, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 31.183558282, position = 51, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 57.6422927595, position = 12, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 64.5633623664, position = 21, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 15.7997184087, position = 12, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 34.9957674349, position = 19.4770966257, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 89.3166804427, position = 29, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 38.8142461389, position = 36, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 10.5705744583, position = 59, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 41.210897476, position = 25, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 99.597432916, position = 32, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 1.38948310225, position = 54, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 49.5646739656, position = 25, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 44.1178901319, position = 23, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 79.5236807176, position = 19, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 4.21654421684, position = 47, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 23.6484398831, position = 30, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 85.5785609252, position = 57, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 72.3576466464, position = 27, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 62.0815297022, position = 48, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 97.8996224902, position = 58, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 78.1082984133, position = 29, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 25.4412273172, position = 13, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 24.6341183081, position = 13, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 28.0679046404, position = 35, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 79.2121879546, position = 52, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 19.5673587147, position = 11, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 52.5771307727, position = 24, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 25.4026660772, position = 51, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 21.982663391, position = 35, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 64.5947247946, position = 29, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 34.5739789116, position = 46, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 97.9526644599, position = 33, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 8.15440976046, position = 35, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 34.6586449121, position = 53, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 40.9174021367, position = 26, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 76.8165424953, position = 34, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 62.836008394, position = 35, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 65.3036511508, position = 14, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 42.5887767171, position = 34, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 37.9581522594, position = 26, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 41.1467289554, position = 22, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 31.215728443, position = 28, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 47.9521473825, position = 56, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 72.612542524, position = 43, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 97.1730756635, position = 17, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 51.500809041, position = 47, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 62.8944530891, position = 14, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 62.8816522545, position = 50, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 26.5645270531, position = 20, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 86.6981773849, position = 31, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 28.0662843359, position = 14, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 23.1259933934, position = 32, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 58.7738449377, position = 26, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 37.8759091681, position = 13, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 79.3273229549, position = 32, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 1.33280611421, position = 14, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 42.9283937288, position = 50, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 47.2467027827, position = 49.6281706646, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 23.796072794, position = 20.0, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 53.8543880896, position = 31.0, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 66.8475131778, position = 20.1873583312, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 26.617920306, position = 32.0, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 57.4323126667, position = 29.4930215747, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 63.3747063731, position = 20.9514110511, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 67.4702673928, position = 33.2174739288, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 48.3935772913, position = 14.5535214523, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 35.2682335215, position = 51.2403015476, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 63.504258869, position = 49.3718293354, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 43.7008824876, position = 20.0, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 75.9848615214, position = 31.0, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 25.8694868657, position = 31.8126416688, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 25.6816390578, position = 32.0, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 97.7465006129, position = 51.5069784253, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 62.8563440946, position = 18.0485889489, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 51.0666896958, position = 32.7825260712, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = -4.77151473929, position = 14.4464785477, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 29.8563773839, position = 50.7596984524, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 48.8904688797, position = 18, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 32.0196838746, position = 16, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 17.1216415446, position = 39, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 42.4131387591, position = 30, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 99.9993710491, position = 13, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 22.9027112194, position = 19, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 15.8497492505, position = 55, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 79.5025886212, position = 29, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 45.1239418849, position = 13, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 85.0880490379, position = 13, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 49.6082825675, position = 52, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 85.6713944925, position = 30, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 22.427973729, position = 50, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 36.7967377185, position = 33, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 21.7610261682, position = 58, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 24.2787518553, position = 18, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 49.3148329962, position = 42, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 64.2975474915, position = 38, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 47.3359998642, position = 34, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 98.8087850384, position = 33, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 38.8680694213, position = 13, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 24.6396086977, position = 53, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 53.4786392466, position = 21, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 84.0100519415, position = 48, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 33.6623960521, position = 28, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 45.1016090134, position = 49, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 35.537738611, position = 45, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 6.47557417711, position = 36, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 39.6616848254, position = 30, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 37.957442093, position = 48, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 10.0996548622, position = 32, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 7.37111200425, position = 43, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 11.1452636059, position = 26, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 67.1571999201, position = 58, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 74.4063775865, position = 40, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 42.4712173769, position = 19, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 94.7564168559, position = 46, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 36.2536216705, position = 34, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 63.3637381415, position = 49, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 80.1653827885, position = 33, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 69.5819903778, position = 55, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 12.1481563562, position = 34, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 86.3743300494, position = 18, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 35.0315702381, position = 32, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 11.5813207883, position = 21, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 96.9128973425, position = 57, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 72.0949292293, position = 25, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 46.8516575746, position = 23, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 92.4197988485, position = 21, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 84.9289507329, position = 36, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 2.43701946147, position = 52, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 14.273768491, position = 40, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 71.8181700467, position = 16, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 26.7682179797, position = 33, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 53.7142925225, position = 47, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 73.151828577, position = 13, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 92.6158272562, position = 46, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 51.2720573126, position = 41, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 79.2055459745, position = 10, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 11.8527848132, position = 60, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 8.03660341362, position = 49, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 0.499638885585, position = 34, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 37.3528823388, position = 59, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 55.8433385637, position = 43, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 48.5223972884, position = 46, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 46.8899089867, position = 29, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 84.6185325189, position = 29, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 85.7849657189, position = 52, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 89.3712601232, position = 39, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 26.5065267915, position = 55, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 62.8816522545, position = 50, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 26.5645270531, position = 20, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 86.6981773849, position = 31, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 28.0662843359, position = 14, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 23.1259933934, position = 32, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 58.7738449377, position = 26, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 37.8759091681, position = 13, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 79.3273229549, position = 32, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 1.33280611421, position = 14, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 42.9283937288, position = 50, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 52.3102636714, position = 54, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 55.0298355333, position = 26, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 65.792534833, position = 48, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 15.9105110309, position = 37, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 7.15018251016, position = 12, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 46.9897811681, position = 16, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 38.7404656901, position = 28, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 35.9388152677, position = 23, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 29.0786321046, position = 23, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 41.1836319508, position = 44, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 78.5383426203, position = 13, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 63.3563449295, position = 11, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 45.8169536675, position = 25, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 22.7913054173, position = 57, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 34.4260219309, position = 28, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 25.3435740582, position = 17, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 69.0370817032, position = 26.975787857, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 42.3306515688, position = 59, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 32.3906799932, position = 32, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 60.629876773, position = 52.6197332461, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 15.4256573368, position = 53, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 82.1612097771, position = 22, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 47.1242623508, position = 10, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 16.301986128, position = 49, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 54.705872331, position = 25, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 76.4014831114, position = 22, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 4.01848817156, position = 24, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 40.8850398403, position = 51, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 81.7220507789, position = 37, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 51.2231859381, position = 39, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 7.03393791973, position = 18, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 71.0794646392, position = 20, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 30.389814549, position = 46, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 18.663030599, position = 59, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 18.2091558566, position = 57, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 19.5386393811, position = 59, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 95.0603626441, position = 32, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 39.019347321, position = 22, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 36.0185209084, position = 53, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 81.9320682622, position = 54, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 99.6328384637, position = 60, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 53.3837655635, position = 24, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 25.3332431512, position = 25, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 86.7876883529, position = 42, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 15.4299565123, position = 12, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 86.4340834004, position = 15, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 28.8826542037, position = 22, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 99.3977141272, position = 44, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 63.4485701157, position = 53, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 20.3217894346, position = 55, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 55.9876214012, position = 39, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 32.5538468622, position = 11, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 37.6178304316, position = 28, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 6.84595158216, position = 20, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 34.1165569906, position = 31, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 80.5792425119, position = 23, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 59.4851130092, position = 47, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 52.3159417349, position = 10, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 0.196574620359, position = 26, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 27.2577618003, position = 22, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 46.8355352887, position = 41.0930767647, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 40.9476551686, position = 20.032884863, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 65.0818720795, position = 29.1338965669, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 18.0151473682, position = 33.6044796224, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 17.6909659719, position = 32.4297095447, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 64.2957728383, position = 59.6570773802, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 58.0430867764, position = 18.3711990949, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 72.5824862924, position = 29.614385866, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 41.8234848652, position = 44.2776434098, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 34.9790941881, position = 48.5001154587, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 46.0210583306, position = 37.9069232353, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 41.0260835608, position = 38.967115137, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 75.5662149384, position = 18.8661034331, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 58.2253906825, position = 37.3955203776, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 15.3651372856, position = 12.5702904553, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 53.3128344406, position = 21.3429226198, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 65.8275773934, position = 26.6288009051, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 53.0341561833, position = 32.385614134, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 49.9832112019, position = 28.7223565902, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 50.454177074, position = 44.4998845413, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 54.487076335, position = 51, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 84.0013741153, position = 18, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 17.1283194176, position = 40, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 8.1357886818, position = 57, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 50.5039786922, position = 59, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 67.7938446507, position = 10, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 99.5851001491, position = 21, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 17.0943405721, position = 18, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 64.0499660439, position = 38, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 6.75689463892, position = 59, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 34.7554109445, position = 17, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 63.7395180747, position = 27, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 61.0159074611, position = 47, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 75.2084747694, position = 44, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 81.9241267726, position = 21, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 48.5034385821, position = 57, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 21.468560479, position = 57, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 67.6214707375, position = 52, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 24.664689275, position = 30, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 38.6996643739, position = 41, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 35.3096944825, position = 56.580259549, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 39.7223684739, position = 25.0, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 59.7388375944, position = 59.3999921912, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 32.5655340035, position = 17.3945278883, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 44.8085092351, position = 30.2313353778, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 52.7154457617, position = 37.7405463374, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = -1.93882634555, position = 30.9777548453, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 30.5787807242, position = 50.0, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 63.2903260716, position = 38.2433892893, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 53.4574916498, position = 34.0684394156, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 44.1053707284, position = 42.419740451, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 53.6928223097, position = 25.0, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 58.7144065901, position = 27.6000078088, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 69.8829628088, position = 13.93539574, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 25.6334994586, position = 17.7686646222, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 51.1529939311, position = 46.2594536626, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 32.2028657165, position = 17.0222451547, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 70.1390682031, position = 50.0, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 62.1758174805, position = 18.7566107107, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 46.105529475, position = 11.9315605844, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 63.3582279038, position = 41.3892538595, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 59.6715885026, position = 18.0451364619, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 63.3973586111, position = 5.91439841171, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 102.914031929, position = 47.1324621992, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 61.6412194794, position = 25.7908897448, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 26.2657915437, position = 20.9006843113, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 74.4132904511, position = 24.6327712908, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 82.7029326997, position = 46.6919661787, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 37.5513489978, position = 37.2875436039, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 59.1230836518, position = 40.0310462099, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 29.4123174794, position = 50.6752040263, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 40.8584777199, position = 17.9548635381, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 55.5209027199, position = 64.0856015883, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 12.0849369228, position = 29.8675378008, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 3.82750802846, position = 27.6784184773, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 64.5108285843, position = 43.0993156887, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 29.2353323496, position = 13.3672287092, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 57.8077036266, position = 44.3080338213, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 76.6994517777, position = 30.7124563961, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 67.0510401391, position = 38.9689537901, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 22.8974416086, position = 39.1933845277, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 51.6865116653, position = 23.3786979733, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 15.0333550533, position = 37.5204186796, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 28.3547862221, position = 25.1759486309, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 74.6099477209, position = 21.3388876437, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 29.7574313527, position = 20.6527905312, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 31.8015296416, position = 32.4528468465, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 14.8489505885, position = 53.0556578682, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 67.9729626608, position = 49.1826764028, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 20.7355271053, position = 39.3228681219, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 39.6030613812, position = 40.8066154723, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 56.1766183529, position = 25.6213020267, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 46.1434609459, position = 48.4795813204, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 42.7480230024, position = 41.8240513691, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 70.7473752595, position = 21.6611123563, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 29.2931147033, position = 57.3472094688, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 51.0136139455, position = 32.8252005577, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 73.1375576838, position = 43.9443421318, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 66.9237299329, position = 54.8173235972, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 21.3437432209, position = 44.6771318781, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 64.1329740849, position = 41.8080439957, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 31.7171777176, position = 26.3907516635, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 85.0144019028, position = 46.529994372, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 51.4693133839, position = 45.0101445222, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 81.1284787394, position = 21.0, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 89.2028118228, position = 20.4696335428, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 53.9643435707, position = 29.8964837063, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 65.3746099936, position = 32.8087653961, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 77.6206456921, position = 31.7395269481, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 83.5521665713, position = 42.1050416819, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 61.9347888901, position = 49.1919560043, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 51.1241444202, position = 21.6092483365, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 49.1049671453, position = 19.470005628, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 34.3462246324, position = 30.9898554778, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 4.91779099371, position = 21.0, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 37.6544694587, position = 59.5303664572, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 46.6983776232, position = 30.1035162937, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 59.8015585184, position = 43.1912346039, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 92.4596040108, position = 35.2604730519, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 19.5304892705, position = 53.8949583181, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 61.4805308468, position = 50.2624499789, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 44.806619128, position = 22.1413748059, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 57.4424488875, position = 34.7722404566, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 20.5730769912, position = 9.20406862091, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 29.0558412291, position = 51.8241223289, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 67.5587844982, position = 24.4843936688, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 27.6794965301, position = 11.6417289517, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 32.9057173485, position = 23.2524839376, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 56.3525504498, position = 16.4269023483, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 27.1311408724, position = 56.9563159449, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 55.8881977427, position = 50.7375500211, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 65.7592820403, position = 17.6509770333, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 46.384047915, position = 36.2277595434, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 15.6289960264, position = 61.7959313791, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 44.5741308565, position = 39.1758776711, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 59.0089050901, position = 11.5156063312, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 109.781512787, position = 22.3582710483, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 65.368225886, position = 26.7475160624, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 9.03022170834, position = 35.5730976517, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 22.5541474953, position = 52.0436840551, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 39.8090074195, position = 43, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 74.8428508668, position = 23, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 29.1136821421, position = 42, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 91.7084088862, position = 51, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 84.9432919115, position = 33, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 50.819373116, position = 17, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 91.9577307889, position = 32, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 12.3005563465, position = 14, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 39.8088285443, position = 45, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 21.0934569507, position = 25.1416796203, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 98.3946354876, position = 38, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 71.9903012279, position = 16, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 41.4192217181, position = 52, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 51.8602063773, position = 43, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 73.1172412445, position = 59, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 78.6396512265, position = 38, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 25.1765936455, position = 22, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 4.54197748628, position = 36, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 37.9520254994, position = 56, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 0.16370823623, position = 27, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 93.3842388454, position = 44, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 1.29886090254, position = 43, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 70.321437298, position = 24, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 70.1767886215, position = 17, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 42.9961756127, position = 58, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 49.1392126591, position = 27, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 50.419131402, position = 58, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 11.9772451712, position = 29, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 76.2083367864, position = 33, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 0.801544109696, position = 60, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 72.4299476764, position = 60, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 59.0300626227, position = 25, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 28.9190007963, position = 58, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 17.6335317498, position = 46, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 5.82015475105, position = 23, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 59.5195371195, position = 44, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 17.253382011, position = 38, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 83.7592088836, position = 55, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 31.9926158911, position = 15, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 8.92793898699, position = 36, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 72.3576466464, position = 27, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 62.0815297022, position = 48, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 97.8996224902, position = 58, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 78.1082984133, position = 29, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 25.4412273172, position = 13, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 24.6341183081, position = 13, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 28.0679046404, position = 35, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 79.2121879546, position = 52, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 19.5673587147, position = 11, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 52.5771307727, position = 24, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 10.5034331679, position = 33, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 51.2626426533, position = 11, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 15.1106932189, position = 24, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 1.51552359739, position = 32, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 88.6076869859, position = 50, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 13.853467311, position = 59, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 12.092671465, position = 26, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 39.5424221063, position = 41, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 19.559244883, position = 47, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 88.1829336944, position = 59, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 97.877310484, position = 16, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 77.6595457059, position = 26, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 14.3382225431, position = 29, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 87.2739214959, position = 28, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 27.4628527924, position = 60, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 31.1447215045, position = 21, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 37.2566796567, position = 59, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 37.2567865152, position = 57.2882848186, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 9.10051459143, position = 49, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 90.6256774817, position = 16, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 44.0262688671, position = 27, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 27.1335030772, position = 41, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 19.1886298876, position = 24, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 28.9223125401, position = 46, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 45.946153132, position = 10, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 36.6769725648, position = 15, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 75.9021384188, position = 46, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 2.26687368458, position = 22, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 26.4579556497, position = 48, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 61.7540100537, position = 42, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 56.7562230304, position = 22, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 72.0463732978, position = 45, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 64.5294449166, position = 35, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 63.1936351511, position = 46, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 45.1512656578, position = 56, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 58.292248276, position = 26, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 26.1803059867, position = 56, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 38.6871464586, position = 28, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 21.7806138976, position = 50, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 78.0633832293, position = 34, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 69.2424890152, position = 13, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 55.7547950935, position = 52, edge = -96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 69.40048562, position = 15, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 1.31432463169, position = 49, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 6.62446670563, position = 55, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 8.33889774279, position = 27, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 12.7970903077, position = 30, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 4.11510405307, position = 13, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 14.0007330658, position = 12, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 2.22107537995, position = 52, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 47.3124468489, position = 51.87540575, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 26.4931627343, position = 40.0917900386, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 24.71180389, position = 29.3632489963, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 30.3291682429, position = 46.0, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 50.2282976198, position = 5.76378304463, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 40.7875020169, position = 17.1166174344, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 37.5206290627, position = 46.9477122947, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = -0.24484757228, position = 23.3404874031, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 77.9901876333, position = 34.9443448603, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 62.8122714491, position = 39.087513176, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 22.1164880954, position = 26.12459425, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 22.6230037339, position = 35.9082099614, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 59.0715507922, position = 23.6367510037, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 33.1671232088, position = 46.0, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 93.6705199721, position = 37.2362169554, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 4.0438803084, position = 32.8833825656, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 73.0401542681, position = 52.0522877053, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 43.4291233935, position = 24.6595125969, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 25.2843105117, position = 47.0556551397, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 61.7777469987, position = 37.912486824, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 71.5354731225, position = 54.0503977622, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 59.2503978018, position = 17.1671676291, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 50.3060218528, position = 41.0379797844, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 52.4121766893, position = 46.1986743917, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 36.54141377, position = 22.938955513, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 28.0452274276, position = 28.1056507185, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 40.217779954, position = 35.2066957941, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 82.9194953111, position = 49.8284741334, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 34.520111369, position = 35.091492151, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 38.9304998274, position = 38.7961671345, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 64.2527024577, position = 47.3388560973, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 59.652611996, position = 23.7881808232, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 42.0103375546, position = 22.8764186273, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 68.1353869891, position = 46.9337878075, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 30.9199604605, position = 25.8519342319, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 57.7401012356, position = 36.7950335929, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 51.448892508, position = 27.4260754967, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 83.5426462722, position = 51.8634920453, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 35.0238535199, position = 17.1960514529, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 29.1205228114, position = 37.2348790754, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 45.8577135456, position = 46.5727960299, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = -1.59756559798, position = 34.8656269344, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 65.3238510165, position = 43.1420077897, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 62.984843265, position = 30.9358142882, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 72.163271472, position = 42.635431153, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 20.5347034333, position = 15.1500923177, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 5.58941040226, position = 37.7142995061, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 34.3993967709, position = 50.9731916451, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 31.695554842, position = 26.889213314, edge = 24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 36.861282067, position = 29.3241661008, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 21.0212753582, position = 15.7552253997, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 65.4977804251, position = 33.1143312502, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 6.9734230014, position = 49.2143230433, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 24.451750197, position = 44.4933611755, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 64.2959228196, position = 35.227200195, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 67.8102970661, position = 53.3067317952, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 79.5492119911, position = 42.2176713494, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 13.8802521175, position = 46.3166157922, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 79.9686530175, position = 59.2868142812, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 81.0947278512, position = 47.6470648338, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 105.110537717, position = 38.2447746003, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 57.0938522604, position = 37.8856687498, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 23.4214831836, position = 39.7856769567, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 73.48108065, position = 21.5066388245, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 72.2995559713, position = 43.772799805, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 62.7578986897, position = 49.6932682048, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 57.2531840268, position = 50.7823286506, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 10.1856521099, position = 40.6833842078, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 76.4623292333, position = 56.7131857188, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 26.1007570424, position = 59.590334271, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 32.8522743145, position = 33.9622634836, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 39.2060265464, position = 12.1747116073, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 93.1916272114, position = 31.7882283698, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = -0.262118291349, position = 55.858425016, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 47.8811023462, position = 25.8060882486, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 47.5136870533, position = 18.1931358166, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 67.038116742, position = 25.9256827977, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 19.0187221596, position = 57.3527337514, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 31.0372194154, position = 30.1118096473, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 62.1472454215, position = 53.5767129161, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 56.2566427641, position = 38.0377365164, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 65.3612158591, position = 23.8252883927, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 52.2227593722, position = 25.2117716302, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 24.4429068109, position = 55.141574984, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 36.1095935503, position = 27.1939117514, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 21.9477771368, position = 21.8068641834, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 81.5226456788, position = 20.0501050594, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 27.528473626, position = 48.6472662486, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 25.0019004609, position = 31.8881903527, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 84.0611922767, position = 56.04302033, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 71.6340041567, position = 30.4098406491, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 61.4041655695, position = 20.5267058478, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 70.0332231232, position = 23.1215740389, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 73.11807667, position = 33.2452284855, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 36.5837120749, position = 20.7795527765, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 77.1688786848, position = 21.8189453257, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 85.1705641536, position = 36.5268683791, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 63.3265282248, position = 17.2319901113, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 33.654492065, position = 32.4236465742, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 51.9944085672, position = 30.2267429442, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 60.6450515947, position = 22.5901593509, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 67.7190331854, position = 39.4732941522, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 54.756030895, position = 56.8784259611, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 72.4361777826, position = 34.7547715145, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 45.8588553194, position = 49.2204472235, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 18.4186441333, position = 12.1810546743, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 37.508192238, position = 20.4731316209, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 62.1315131615, position = 13.7680098887, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 21.9338752065, position = 43.5763534258, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 63.7870716137, position = 37.7732570558, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 61.1564202489, position = 10.1221170416, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 28.6075227985, position = 34.0544999829, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 56.6099670494, position = 27.5275547157, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 61.4331838019, position = 41.36781691, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 38.9121619185, position = 53.5679802202, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 76.7184399654, position = 28.2883451756, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 65.5541069482, position = 43.7054571112, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 53.1538035796, position = 18.2514747843, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 61.3318543601, position = 33.0801060867, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 75.0392329604, position = 29.7550427072, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 22.8802022345, position = 56.8778829584, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 27.9187611569, position = 40.9455000171, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 61.9054365138, position = 28.4724452843, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 45.5847662555, position = 37.63218309, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 80.703705463, position = 32.4320197798, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 1.53836628984, position = 17.7116548244, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 47.4756034813, position = 44.2945428888, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 49.5992708567, position = 24.7485252157, edge = 96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 32.3924772895, position = 30.9198939133, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 84.084333477, position = 35.2795453669, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 61.53352745, position = 61.7822025746, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 59.7404380021, position = 18.0095470293, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 43.071316647, position = 36.3703355944, edge = 24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 15.5517027684, position = 53.352837959, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 0.269874544316, position = 28.8022956302, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 59.1776095738, position = 49.5546224691, edge = 175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 49.854686869, position = 36.2648133447, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 62.4154541039, position = 40.7214645118, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 30.1503008715, position = 11.5077201628, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 24.2246254572, position = 48.0274838765, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 66.7846179692, position = 48.9553474466, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 65.2502653334, position = 22.5516419944, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 32.2317320643, position = 57.8574239491, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 17.7108250079, position = 54.4430934201, edge = -24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 50.1244110632, position = 33.3735820409, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 59.3508326358, position = 5.9609838621, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 77.1802079292, position = 24.0934577036, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 86.7119806658, position = 41.0260515506, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 10.872536728, position = 39.0653774889, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 7.25746102505, position = 40.0162001786, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 60.3376044631, position = 48.9765605969, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 34.6196661785, position = 39.5734564301, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 84.3945178041, position = 31.5539349373, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 27.0092197835, position = 27.7030686285, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 22.750212547, position = 31.8866214394, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 72.3382086576, position = 8.8512921295, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 51.682671737, position = 28.6198651516, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 78.0492002387, position = 20.3181451495, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 17.4064645171, position = 15.3106406788, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 57.4995967806, position = 47.6083818129, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 61.1780041975, position = 17.0234394031, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 26.4884814389, position = 18.8346951728, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 56.2243383494, position = 31.6758663679, edge = 24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 73.5010356982, position = 19.2969313715, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 22.0389837681, position = 53.1133785606, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 56.5380327748, position = 28.1487078705, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 64.5643029485, position = 19.3801348484, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 63.1137950159, position = 28.6818548505, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 0.834130751389, position = 28.6893593212, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 81.7163549915, position = 32.3916181871, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 73.4849613977, position = 41.8901074441, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 67.8191227952, position = 46.1960079618, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 60.8994205918, position = 29.419850672, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 58.6659345641, position = 41.8677122662, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 35.9727893718, position = 42.3460438424, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 66.5503959704, position = 22.0251972729, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 27.4027029225, position = 61.6823885052, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 58.636629558, position = 41.6588135276, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 48.291465323, position = 52.6113765716, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 11.4410560041, position = 51.318118125, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 73.4849613977, position = 41.8901074441, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 67.8191227952, position = 46.1960079618, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 60.8994205918, position = 29.419850672, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 58.6659345641, position = 41.8677122662, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 35.9727893718, position = 42.3460438424, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 66.5503959704, position = 22.0251972729, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 27.4027029225, position = 61.6823885052, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 58.636629558, position = 41.6588135276, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 48.291465323, position = 52.6113765716, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 11.4410560041, position = 51.318118125, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 60.0058978856, position = 42.9535812558, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 56.8360054455, position = 24.3955135125, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 27.7918227749, position = 57.5414554337, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 40.7589655087, position = 45.7046389307, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 14.0334171718, position = 22.3001089715, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 28.719740969, position = 56.512369541, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 23.6956909735, position = 32.7938942226, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 83.8523371894, position = 48.4466310561, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 61.538527958, position = 27.7851014038, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 10.022610611, position = 38.568038199, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 52.027111172, position = 57.8530342164, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 58.5720342025, position = 24.1360005047, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 47.2706389673, position = 48.9381258867, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 19.6225892435, position = 42.1194124384, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 62.5341128387, position = 22.3610033849, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 60.0929108537, position = 44.8348399278, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 44.571304983, position = 38.0313063351, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 73.044429378, position = 50.4977110756, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 37.377817866, position = 42.0322221934, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 20.2490715969, position = 42.1090936791, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 69.8129847969, position = 25.7120773973, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 94.6277808926, position = 36.7682759082, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 54.3327933592, position = 29.198033001, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 51.3134589357, position = 43.104673542, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 13.0305914711, position = 12.6335097237, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 100.138170821, position = 26.0055505042, edge = -96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 58.6448138737, position = 41.1774354761, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 32.3319664422, position = 22.0839055027, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 68.3686571333, position = 37.3211172061, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 35.3679222728, position = 33.7771147793, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 57.0321246209, position = 25.2879226027, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 89.2301010294, position = 37.2317240918, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 13.7916432104, position = 26.801966999, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 30.9203796364, position = 40.9622620922, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 21.1571489015, position = 50.3664902763, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 91.3595949099, position = 26.9944494958, edge = -24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 60.5238105786, position = 39.8225645239, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 24.2883150246, position = 13.9160944973, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 49.7819872247, position = 49.6788827939, edge = -96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 54.1328977597, position = 22.0186537241, edge = 96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 72.7718702834, position = 35.1170186812, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 60.8196428578, position = 35.2179109874, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 71.590048348, position = 54.766561002, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 73.0618734748, position = 35.0150715635, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 26.951828783, position = 14.6601848762, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 25.4598065744, position = 20.8082860662, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 26.4376206198, position = 36.2693423442, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 71.8747448338, position = 55.9963009366, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 32.5909393096, position = 4.09488170393, edge = 96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 53.618072542, position = 29.8002154994, edge = -96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 73.2308757084, position = 28.8829813188, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 95.841465035, position = 32.7820890126, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 97.1781493917, position = 56.233438998, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 78.1567082453, position = 28.9849284365, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 59.2687630069, position = 15.3398151238, edge = 96823252#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 24.659438057, position = 15.1917139338, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 45.9379748947, position = 20.7306576558, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 70.9598122075, position = 10.0036990634, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 25.6569975224, position = 52.9051182961, edge = -96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 18.4529803682, position = 32.1997845006, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 43.7964606645, position = 33.0335962394, edge = -96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 72.1348727044, position = 29.5282111202, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 50.95489439, position = 47.2655302527, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 39.8599630037, position = 46.2746705278, edge = 175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 68.6520657884, position = 36.7005952057, edge = 96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 61.8671341632, position = 50.4067534041, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 53.0134864385, position = 60.123861601, edge = -96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 77.9947464263, position = 41.3032082133, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 53.4962566966, position = 51.6102404806, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 43.873369817, position = 36.1269353121, edge = 96823253
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 49.7387415567, position = 29.7730192329, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 54.3391987944, position = 41.0930909066, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 59.7180114725, position = 35.3586737299, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 66.0816951498, position = 41.5493808413, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 47.4316113098, position = 40.9605171506, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 25.7182288161, position = 32.9404560647, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 25.9406826612, position = 28.7013389566, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 33.8299577161, position = 30.6411339185, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 35.2080871338, position = 53.2070831167, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 55.5337566332, position = 42.550196566, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 67.7914521475, position = 33.1271682976, edge = -96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 55.6774048038, position = 27.9678468944, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 60.9625064901, position = 15.6474477021, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 33.1543404276, position = 31.7728457789, edge = 96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 6.11622700838, position = 61.1181006381, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 19.9949984648, position = 30.9465449772, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 9.17652468298, position = 30.0003569142, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 23.3842417321, position = 12.9420476259, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 70.8172669814, position = 15.8280642351, edge = 24448028#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 20.1411369296, position = 53.2696687268, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 63.3858257578, position = 29.0647877067, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 51.2015347099, position = 45.6414014421, edge = -161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 57.5429462751, position = 18.8225579259, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 2.50620883649, position = 48.2170096988, edge = 96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 5.42603069096, position = 14.8818993619, edge = 96823254#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 25.9983687367, position = 55.58382148, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 50.318943248, position = 30.1031593795, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 40.5324208394, position = 43.249186978, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 35.6430700952, position = 31.4324088169, edge = -96823256
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 1.61042772087, position = 52.6252895912, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 50.6680447046, position = 52, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 81.9334552103, position = 30, edge = -96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 22.427973729, position = 50, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 36.7967377185, position = 33, edge = 96823243
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 24.2021261828, position = 58, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 22.4057520888, position = 16.2197238749, edge = 97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 49.3148329962, position = 42, edge = -96823252#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 64.2975474915, position = 38, edge = 24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 47.3359998642, position = 34, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 98.8087850384, position = 33, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 44.987284222, position = 30, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 41.0413105009, position = 39, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 97.5070147918, position = 17, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 11.5898223429, position = 33, edge = 96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 3.88253728711, position = 13, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 21.2036389369, position = 26, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 35.5155228702, position = 19, edge = 96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 86.407008342, position = 28, edge = -175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 49.5174396293, position = 58, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 63.2370540856, position = 41, edge = -96823257
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 51.2416758933, position = 57.7162675386, edge = 96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 59.1404525253, position = 22.0649297072, edge = -161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 25.0233956578, position = 46.9573948929, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 0.24884460459, position = 33.2281697184, edge = -24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 82.8576932648, position = 33.9294581174, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 48.1622110036, position = 56.1961354703, edge = -175565015#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 14.1773391003, position = 36.5560851658, edge = 96823249#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 67.5979154132, position = 52.9033045067, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 19.1137521157, position = 24.9366384113, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 91.6943092388, position = 62.9428191476, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 31.691704951, position = 35.2837324614, edge = -96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 51.1522527507, position = 13.9350702928, edge = 161671995#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 19.0062983574, position = 35.0426051071, edge = -24511548#2
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 18.9002107426, position = 44.7718302816, edge = -24511548#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 11.5701484722, position = 39.0705418826, edge = -96823245
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 25.2107934268, position = 46.8038645297, edge = -97817445#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 15.1687143757, position = 27.4439148342, edge = -24448028#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 55.7037155767, position = 43.0966954933, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 32.4381086585, position = 37.0633615887, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 5.41656344262, position = 32.0571808524, edge = 96823254#3
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 57.5776998984, position = 20.2314818233, edge = -175565015#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = -2.36401583833, position = 35.073898955, edge = 96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 60.2459768634, position = 31.1907138985, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 69.0795804285, position = 32.6587717792, edge = -24448028#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 61.2399411299, position = 40.6178443458, edge = -96823252#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 28.1816947708, position = 14.5446630766, edge = -96823255
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 25.8163110448, position = 37.3063233586, edge = -96823244#6
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 67.6088914855, position = 53.0688044034, edge = 24511548#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 29.8076471861, position = 30.3177279854, edge = 161671995#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 26.3290545154, position = 29.2431597943, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 0, price = 46.9139700533, position = 42.3413142066, edge = 96823250
+[39m[49m[0m
+[32mPlacing toolgate: id = 1, price = 35.3100708047, position = 40.2545967524, edge = -96823249#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 2, price = 58.9985529216, position = 39.2414862868, edge = 24511548#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 3, price = 66.3492339823, position = 31.277042509, edge = 96823249#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 4, price = 32.5865332639, position = 55.0175868071, edge = -96823251
+[39m[49m[0m
+[32mPlacing toolgate: id = 5, price = 62.4554051573, position = 11.6054292411, edge = -96823244#5
+[39m[49m[0m
+[32mPlacing toolgate: id = 6, price = 58.1441648748, position = 35.4079761475, edge = 96823248
+[39m[49m[0m
+[32mPlacing toolgate: id = 7, price = 25.8169785998, position = 13.0595951246, edge = 175565015#1
+[39m[49m[0m
+[32mPlacing toolgate: id = 8, price = 18.7956968101, position = 26.5714853286, edge = 96823244#0
+[39m[49m[0m
+[32mPlacing toolgate: id = 9, price = 106.819785595, position = 30.0810063065, edge = 161671995#2
+[39m[49m[0m

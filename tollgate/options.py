@@ -23,12 +23,16 @@ def parse_options():
     optParser.add_option("-p", "--port", action="store", dest="port", type=int,
                          default=PORT, help="TraCI port")
     optParser.add_option("-s", "--step-limit", action="store", dest="step_limit",
-                         default=STEP_LIMIT,
+                         default=STEP_LIMIT, type=int,
                          help="Simulation step limit")
     optParser.add_option("-u", "--step-length", action="store",
                          dest="step_length", type=float,
                          default=STEP_LENGTH,
                          help="Simulation step length")
+    optParser.add_option("", "--screenshot-directory", action="store",
+                         dest="screenshot_directory",
+                         default=None,
+                         help="Screenshot directory")
     
     optParser.add_option("-r", "--random-trips", action="store_true",
                          dest="random_trips", default=None,
@@ -85,6 +89,14 @@ def parse_options():
                          dest="generation_size", type=int,
                          default=GENERATION_SIZE,
                          help="Genetic algorithm generation size")
+    optParser.add_option("", "--output-plots", action="store",
+                         dest="output_plots",
+                         default=None,
+                         help="Output generation plots")
+    optParser.add_option("", "--output-statistics", action="store",
+                         dest="output_statistics",
+                         default=None,
+                         help="Output generation statistics")
     optParser.add_option("", "--output-genealogy", action="store",
                          dest="output_genealogy",
                          default=None,
@@ -131,5 +143,6 @@ if settings is None:
     settings = parse_options()
     settings.step = 0
     sys.stdout = open(settings.output, 'w') if settings.output else sys.stdout
+    settings.output_statistics = open(settings.output_statistics, 'w') if settings.output_statistics else sys.stdout
     settings.stdout = sys.stdout if settings.verbose else devnull
     settings.stderr = sys.stderr if settings.verbose else devnull
